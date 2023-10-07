@@ -7,4 +7,4 @@ on post-fs-data
 service dtvkit /vendor/bin/hw/dtvkitserver
     class core
     user root
-    group system wakelock media_rw mediadrm root
+    group drmrpc system wakelock media_rw mediadrm root
