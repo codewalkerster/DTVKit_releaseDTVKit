@@ -11,6 +11,46 @@ LOCAL_PROPRIETARY_MODULE := true
 LOCAL_MODULE_TAGS := optional
 include $(BUILD_PREBUILT)
 
+ifeq ($(PRODUCT_SUPPORT_TUNER_FRAMEWORK), true)
+include $(CLEAR_VARS)
+    LOCAL_MODULE := libdtvkit_tuner_jni_wrapper
+    LOCAL_SRC_FILES := libdtvkit_tuner_jni_wrapper.so
+    LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+    LOCAL_MODULE_SUFFIX := .so
+    LOCAL_VENDOR_MODULE := true
+    LOCAL_SHARED_LIBRARIES :=  \
+        libcutils \
+        libutils \
+        liblog \
+        libbase \
+        libdtvkit_tuner_jni \
+        libjdvrlib-jni \
+        libjniasplayer-jni
+    LOCAL_LICENSE_KINDS := legacy_notice
+    LOCAL_LICENSE_CONDITIONS := notice
+include $(BUILD_PREBUILT)
+
+$(warning "prebuilt libdtvkitserver.so")
+
+include $(CLEAR_VARS)
+    LOCAL_MODULE := libdtvkitserver
+    LOCAL_SRC_FILES := libdtvkitserver.so
+    LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+    LOCAL_MODULE_SUFFIX := .so
+    LOCAL_VENDOR_MODULE := true
+    LOCAL_SHARED_LIBRARIES :=  \
+        libteec \
+        libft2-aml \
+        libutils \
+        liblog \
+        libdsm \
+        libdtvkit_tuner_jni_wrapper \
+
+    LOCAL_LICENSE_KINDS := legacy_notice
+    LOCAL_LICENSE_CONDITIONS := notice
+include $(BUILD_PREBUILT)
+endif
+
 include $(CLEAR_VARS)
 
 LOCAL_MODULE_CLASS := EXECUTABLES
