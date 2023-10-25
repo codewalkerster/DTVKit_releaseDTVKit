@@ -3,11 +3,11 @@ commit 034c63d382b43240ae4d12be57fc4a25f750a862
 Date:   Fri Oct 20 18:38:03 2023 +0800
     (cherry picked from commit 1d70ccaac018647d39c09de9b65c8a1f974f9a50)
 DVBCore
-commit 0ea8e7af16bf302ebb9a978480942cebbecc6a6a
-Date:   Tue Oct 24 00:00:19 2023 -0700
+commit 474838ed310f391f10d9bf483a99e324b6f56ed9
+Date:   Wed Oct 25 15:45:41 2023 +0800
 dtvkit-amlogic
-commit 59f327441754657c87b3ad4408c989b78e51117e
-Date:   Tue Oct 24 16:29:13 2023 +0800
+commit 83747da8a9f5907ba9353fdcd58fa921b27023de
+Date:   Tue Oct 24 17:27:14 2023 +0800
 CI-Plus
 commit c543bd2652603ec6ee8706cda380d8acef2e2c30
 Date:   Sun Oct 8 14:43:13 2023 +0800
