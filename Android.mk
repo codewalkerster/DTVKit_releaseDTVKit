@@ -25,6 +25,7 @@ include $(CLEAR_VARS)
         libbase \
         libdtvkit_tuner_jni \
         libjdvrlib-jni \
+        libjcas_jni.so \
         libjniasplayer-jni
     LOCAL_LICENSE_KINDS := legacy_notice
     LOCAL_LICENSE_CONDITIONS := notice
