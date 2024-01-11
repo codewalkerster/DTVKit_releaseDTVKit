@@ -46,7 +46,11 @@ include $(CLEAR_VARS)
         liblog \
         libdsm \
         libdtvkit_tuner_jni_wrapper \
-
+        libbase \
+        libhidlbase \
+        libsystemcontrolservice \
+        vendor.amlogic.hardware.systemcontrol@1.0 \
+        vendor.amlogic.hardware.systemcontrol@1.1
     LOCAL_LICENSE_KINDS := legacy_notice
     LOCAL_LICENSE_CONDITIONS := notice
 include $(BUILD_PREBUILT)
