@@ -99,7 +99,8 @@ LOCAL_SHARED_LIBRARIES := \
     vendor.amlogic.hardware.systemcontrol@1.1 \
     libfmq.vendor \
     libmeson_display_adapter_remote \
-    libmeson_display_service
+    libmeson_display_service \
+    libdtvkit_platform
 
 LOCAL_MODULE := dtvkitserver
 LOCAL_SRC_FILES := dtvkitserver
@@ -151,7 +152,8 @@ LOCAL_SHARED_LIBRARIES := \
     libmeson_display_service \
     vendor.amlogic.hardware.systemcontrol@1.0 \
     vendor.amlogic.hardware.systemcontrol@1.1 \
-    libfmq.vendor
+    libfmq.vendor \
+    libdtvkit_platform
 LOCAL_MODULE := isdb_server
 LOCAL_SRC_FILES := isdb_server
 LOCAL_LICENSE_KINDS := legacy_notice
@@ -202,7 +204,8 @@ LOCAL_SHARED_LIBRARIES := \
     libmeson_display_service \
     vendor.amlogic.hardware.systemcontrol@1.0 \
     vendor.amlogic.hardware.systemcontrol@1.1 \
-    libfmq.vendor
+    libfmq.vendor \
+    libdtvkit_platform
 LOCAL_MODULE := dvb_server
 LOCAL_SRC_FILES := dvb_server
 LOCAL_LICENSE_KINDS := legacy_notice
