@@ -27,6 +27,7 @@ include $(CLEAR_VARS)
         liblog \
         libdsm \
         libdtvkit_tuner_jni_wrapper \
+        libdtvkit_platform_ATF \
         libbase \
         libhidlbase \
         libsystemcontrolservice \
