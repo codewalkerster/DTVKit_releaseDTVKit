@@ -1,428 +1,534 @@
 {
-    "comment":[
+        "comment":[
         "formatcheck: https://www.bejson.com/explore/index_new/",
-        "languagecode: [639-2/B code,639-2/T code], if B and T has same code, only need set B in languagecode array, such as english",
+       "languagestring: language name, if has UTF-8 code in this string, it must contain \\xx as a guide field",
+       "languagecode: [639-2/B code,639-2/T code], if B and T has same code, only need set B in languagecode array, such as english",
         "the end"
     ],
     "cfgversion": 1,
     "languagelist": [
         {
+            "languagestring": "English",
             "languagecode": ["eng"],
             "description": "English"
         },
         {
+            "languagestring": "Cymraeg",
             "languagecode": ["wel","cym"],
             "description": "Cymraeg"
         },
         {
+            "languagestring": "\\xx\\x05G\\xE0idhlig",
             "languagecode": ["gla"],
-            "description": "Gaelic"
+            "description": "GAELIC"
         },
         {
+            "languagestring": "Gaeilge",
             "languagecode": ["gle"],
             "description": "Gaeilge"
         },
         {
+            "languagestring": "Dutch",
             "languagecode": ["dut","nld"],
             "description": "Dutch"
         },
         {
+            "languagestring": "Deutsch",
             "languagecode": ["ger","deu"],
             "description": "Deutsch"
         },
         {
+            "languagestring": "\\xx\\x05Fran\\xE7ais",
             "languagecode": ["fre","fra"],
             "description": "French"
         },
         {
+            "languagestring": "\\xx\\x01\\xe0\\xe3\\xe1\\xe1\\xda\\xd8\\xd9\\xef\\xed\\xec\\xf6\\xda",
             "languagecode": ["rus"],
             "description": "Russian"
         },
         {
+            "languagestring": "Simplified Chinese",
             "languagecode": ["chi","zho"],
             "description": "Simplified Chinese"
         },
         {
+            "languagestring": "suomi",
             "languagecode": ["fin"],
             "description": "Finnish"
         },
         {
+            "languagestring": "Svenska",
             "languagecode": ["swe"],
             "description": "Swedish"
         },
         {
+            "languagestring": "norsk",
             "languagecode": ["nor"],
             "description": "Norwegian"
         },
         {
+            "languagestring": "dansk",
             "languagecode": ["dan"],
             "description": "Danish"
         },
         {
+            "languagestring": "Maori",
             "languagecode": ["mao","mri"],
             "description": "Maori"
         },
         {
+            "languagestring": "Japanese",
             "languagecode": ["jpn"],
             "description": "Japanese"
         },
         {
+            "languagestring": "italiano",
             "languagecode": ["ita"],
             "description": "Italian"
         },
         {
+            "languagestring": "\\xx\\x05espa\\xF1ol",
             "languagecode": ["spa","esl"],
             "description": "Spanish"
         },
         {
+            "languagestring": "Korean",
             "languagecode": ["kor"],
             "description": "Korean"
         },
         {
+            "languagestring": "Hindi",
             "languagecode": ["hin"],
             "description": "Hindi"
         },
         {
+            "languagestring": "\\xx\\x06\\xE8e\\xBAtina",
             "languagecode": ["cze","ces"],
             "description": "Czech"
         },
         {
+            "languagestring": "\\xx\\x06sloven \\xE8ina",
             "languagecode": ["slo","slk"],
             "description": "Slovak"
         },
         {
+            "languagestring": "Afrikaans",
             "languagecode": ["afr"],
             "description": "Afrikaans"
         },
         {
+            "languagestring": "isiNdebele",
             "languagecode": ["nbl"],
             "description": "Ndebele"
         },
         {
+            "languagestring": "Sesotho",
             "languagecode": ["sot"],
             "description": "Southern Sotho"
         },
         {
+            "languagestring": "SiSwati",
             "languagecode": ["ssw"],
             "description": "Swati"
         },
         {
+            "languagestring": "Xitsonga",
             "languagecode": ["tso"],
             "description": "Tsonga"
         },
         {
+            "languagestring": "Setswana",
             "languagecode": ["tsn"],
             "description": "Tswana"
         },
         {
+            "languagestring": "Tshivenda",
             "languagecode": ["ven"],
             "description": "Venda"
         },
         {
+            "languagestring": "IsiXhosa",
             "languagecode": ["xho"],
             "description": "Xhosa"
         },
         {
+            "languagestring": "IsiZulu",
             "languagecode": ["zul"],
             "description": "Zulu"
         },
         {
+            "languagestring": "Croatian",
             "languagecode": ["hrv"],
             "description": "Croatian"
         },
         {
+            "languagestring": "Hungarian",
             "languagecode": ["hun"],
             "description": "Hungarian"
         },
         {
+            "languagestring": "\\xx\\x0Blatvie\\xA8u valoda",
             "languagecode": ["lav"],
             "description": "Latvian"
         },
         {
+            "languagestring": "\\xx\\x0BL\\xEBtzebuergesch",
             "languagecode": ["ltz"],
             "description": "Luxembourgish"
         },
         {
+            "languagestring": "polski",
             "languagecode": ["pol"],
             "description": "Polish"
         },
         {
+            "languagestring": "\\xx\\x0bportugu\\xeas",
             "languagecode": ["por"],
             "description": "Portuguese"
         },
         {
+            "languagestring": "\\xx\\x01\\xe1\\xe0\\xdf\\xe1\\xda\\xd8\\xf8\\xd5\\xd7\\xd8\\xda",
             "languagecode": ["srp"],
             "description": "Serbian"
         },
         {
+            "languagestring": "\\xx\\x0blimba rom\\xe2n\\xe3",
             "languagecode": ["rum","ron"],
             "description": "Romanian"
         },
         {
+            "languagestring": "gjuha shqipe",
             "languagecode": ["alb","sqi"],
             "description": "Albanian"
         },
         {
+            "languagestring": "slovenski",
             "languagecode": ["slv"],
             "description": "Slovene"
         },
         {
+            "languagestring": "\\xx\\x0bcatal\\xe0",
             "languagecode": ["cat"],
             "description": "Catalan"
         },
         {
+            "languagestring": "galego",
             "languagecode": ["glg"],
             "description": "Galician"
         },
         {
+            "languagestring": "euskara",
             "languagecode": ["baq","eus"],
-            "description": "Basque1"
+			"description": "Basque"
         },
         {
+            "languagestring": "\\xx\\x01\\xe3\\xda\\xe0\\xd0\\xf7\\xdd\\xe1\\xec\\xda\\xd0 \\xdc\\xde\\xd2\\xd0",
             "languagecode": ["ukr"],
             "description": "Ukrainian"
         },
         {
+            "languagestring": "Burmese",
             "languagecode": ["mya"],
             "description": "Myanmar"
         },
         {
+            "languagestring": "Icelandic",
             "languagecode": ["ice"],
             "description": "Iceland"
         },
         {
+            "languagestring": "vietnamese",
             "languagecode": ["vie"],
             "description": "Vietnam"
         },
         {
+            "languagestring": "Estonian",
             "languagecode": ["est"],
             "description": "Estonian"
         },
         {
+            "languagestring": "Sami",
             "languagecode": ["smi"],
             "description": "Sami"
         },
         {
+            "languagestring": "Turkish",
             "languagecode": ["tur"],
             "description": "Turkish"
         },
         {
+            "languagestring": "Bulgarian",
             "languagecode": ["bul"],
             "description": "Bulgarian"
         },
         {
+            "languagestring": "Thai",
             "languagecode": ["tha"],
             "description": "Thai"
         },
         {
+            "languagestring": "Greek",
             "languagecode": ["gre","ell"],
             "description": "Greek"
         },
         {
+            "languagestring": "Bahasa Melayu",
             "languagecode": ["may","msa"],
             "description": "Malay"
         },
         {
+            "languagestring": "Tamil",
             "languagecode": ["tam"],
             "description": "Tamil"
         },
         {
+            "languagestring": "Persian",
             "languagecode": ["per","fas"],
             "description": "Persian"
         },
         {
+            "languagestring": "Multiple languages",
             "languagecode": ["mul"],
-            "description": "Multiple languages"
+            "description": "Multiple"
         },
         {
+            "languagestring": "Kazakh",
             "languagecode": ["kaz"],
             "description": "Kazakh"
         },
         {
+            "languagestring": "Uzbek",
             "languagecode": ["uzb"],
             "description": "Uzbek"
         },
         {
+            "languagestring": "Macedonian",
             "languagecode": ["mac","mkd"],
             "description": "Macedonian"
         },
         {
+            "languagestring": "Turkmen",
             "languagecode": ["tuk"],
             "description": "Turkmen"
         },
         {
+            "languagestring": "Indonesian",
             "languagecode": ["ind"],
             "description": "Indonesian"
         },
         {
+            "languagestring": "Ewe",
             "languagecode": ["ewe"],
             "description": "Ewe"
         },
         {
+            "languagestring": "Sardinian",
             "languagecode": ["srd"],
             "description": "Sardinian"
         },
         {
+            "languagestring": "Hebrew",
             "languagecode": ["heb"],
             "description": "Hebrew"
         },
         {
+            "languagestring": "Belarusian",
             "languagecode": ["bel"],
             "description": "Belarusian"
         },
         {
+            "languagestring": "Arabic",
             "languagecode": ["ara"],
             "description": "Arabic"
         },
         {
+            "languagestring": "Urdu",
             "languagecode": ["urd"],
             "description": "Urdu"
         },
         {
+            "languagestring": "Lithuanian",
             "languagecode": ["lit"],
             "description": "Lithuanian"
         },
         {
+            "languagestring": "Armenian",
             "languagecode": ["arm"],
             "description": "Armenian"
         },
         {
+            "languagestring": "Quechua",
             "languagecode": ["que"],
             "description": "Quechua"
         },
         {
+            "languagestring": "Georgian",
             "languagecode": ["geo"],
             "description": "Georgian"
         },
         {
+            "languagestring": "Kurdish",
             "languagecode": ["kur"],
             "description": "Kurdish"
         },
         {
+            "languagestring": "Kirghiz",
             "languagecode": ["kir"],
             "description": "Kirghiz"
         },
         {
+            "languagestring": "Original Audio",
             "languagecode": ["qaa"],
-            "description": "Original Audio"
+            "description": "qaa"
         },
         {
+            "languagestring": "American Samoa",
             "languagecode": ["smo"],
             "description": "American Samoa"
         },
         {
+            "languagestring": "Bosnian",
             "languagecode": ["bos"],
             "description": "Bosnian"
         },
         {
+            "languagestring": "Dzongkha",
             "languagecode": ["dzo"],
             "description": "Dzongkha"
         },
         {
+            "languagestring": "Sango",
             "languagecode": ["sag"],
             "description": "Sango"
         },
         {
+            "languagestring": "Tigrinya",
             "languagecode": ["tir"],
             "description": "Tigrinya"
         },
         {
+            "languagestring": "Greenlandic",
             "languagecode": ["kal"],
             "description": "Greenlandic"
         },
         {
+            "languagestring": "Central Khmer",
             "languagecode": ["khm"],
             "description": "Central Khmer"
         },
         {
+            "languagestring": "Lao",
             "languagecode": ["lao"],
             "description": "Lao"
         },
         {
+            "languagestring": "Malagasy",
             "languagecode": ["mlg"],
             "description": "Malagasy"
         },
         {
+            "languagestring": "Maltese",
             "languagecode": ["mlt"],
             "description": "Maltese"
         },
         {
+            "languagestring": "Divehi",
             "languagecode": ["div"],
             "description": "Divehi"
         },
         {
+            "languagestring": "Chewa",
             "languagecode": ["nya"],
             "description": "Chewa"
         },
         {
+            "languagestring": "Nepali",
             "languagecode": ["nep"],
             "description": "Nepali"
         },
         {
+            "languagestring": "Guarani",
             "languagecode": ["grn"],
             "description": "Guarani"
         },
         {
+            "languagestring": "Shona",
             "languagecode": ["sna"],
             "description": "Shona"
         },
         {
+            "languagestring": "vosa Vakaviti",
             "languagecode": ["fij"],
             "description": "Fijain"
         },
         {
-            "languagecode": ["bam"],    
+            "languagestring": "bamanankan",
+            "languagecode": ["bam"],
             "description": "Bambara"
         },
         {
+            "languagestring": "Lingala",
             "languagecode": ["lin"],
             "description": "Lingala"
         },
         {
+            "languagestring": "Wollof",
             "languagecode": ["wol"],
             "description": "Wolof"
         },
         {
+            "languagestring": "Ikinyarwanda",
             "languagecode": ["kin"],
             "description": "Kinyarwanda"
         },
         {
+            "languagestring": "Mongolian",
             "languagecode": ["mon"],
             "description": "Mongolian"
         },
         {
+            "languagestring": "English Creole",
             "languagecode": ["cpe"],
             "description": "English Creole"
         },
         {
+            "languagestring": "Pashto",
             "languagecode": ["pus"],
             "description": "Pashto"
         },
         {
+            "languagestring": "Sranan Tongo",
             "languagecode": ["srn"],
             "description": "Sranan Tongo"
         },
         {
+            "languagestring": "Bantu",
             "languagecode": ["bnt"],
             "description": "Bantu"
         },
         {
+            "languagestring": "Sinhalese",
             "languagecode": ["sin"],
             "description": "Sinhalese"
         },
         {
+            "languagestring": "Fon",
             "languagecode": ["fon"],
             "description": "Fon"
         },
         {
+            "languagestring": "Fang",
             "languagecode": ["fan"],
             "description": "Fang"
         },
         {
+            "languagestring": "Azerbaijani",
             "languagecode": ["aze"],
             "description": "Azerbaijani"
         },
         {
+            "languagestring": "Undefined",
             "languagecode": ["und"],
             "description": "Undefined"
         }

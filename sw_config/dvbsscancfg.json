@@ -1,215 +1,292 @@
 {
+    "comment":
+    [
+        "formatcheck: https://www.bejson.com/explore/index_new/",
+        "lcntype: default value is share",
+            "alone: when UI switch lcn on or off, the lcn value will be changed in this dtv type",
+            "share: when UI switch lcn on or off, the lcn value will be changed in all dtv type",
+            "alwaysoff: no care ui setting, always off",
+            "alwayson: no care ui setting, always on",
+        "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:save duplicate service 1:remove duplicate service",
+        "sortservicepriority: sort priority sort type: servicename,InTs,frequency,serviceid,servicetype,SignalLevel,Scramble,Resolution",
+        "tvfirstunallocatedlcn: TV service first unallocated lcn",
+        "radiofirstunallocatedlcn: radio service first unallocated lcn",
+        "otherfirstunallocatedlcn: other service first unallocated lcn",
+        "radiolcnoffset:  radio lcnoff set",
+        " FALSE/TRUE, default is FALSE",
+        "privatedatacode: if no set, use pravitedata in country setting",
+        "firstunallocatedlcn: if no be set, this value is 800",
+        "lastunallocatedlcn=if no be set, this value is 9999",
+        "protocoltype: EACEM, NORDIG,DBOOK,SEA, OTHER",
+        "netidmax=0xffff;orignetidmax=0xffff",
+        "needmatchonid: this country must match onid list,",
+        "presortfilename: customer lcn file",
+        "the end"
+    ],
+
+    "cfgversion": 1,
+    "countrydefaultvalue":
+    {
+        "lcntype": "share"
+    },
     "countrylist": [
         {
-            "countrycode": "def",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "description": "ARGENTINA",
+            "countrycode": "arg",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "aus",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "350",
-            "LastUnallocatedLcn": "399"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "350",
+            "lastunallocatedlcn": "399"
         },
         {
             "countrycode": "aut",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "bel",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
-            "countrycode": "blr",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899"
+            "description": "BOLIVIA",
+            "countrycode": "bol",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
-            "countrycode": "chi",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899"
+            "description": "BRAZIL",
+            "countrycode": "bra",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
+            "description": "CHILE",
+            "countrycode": "chl",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
+        },
+        {
+            "description": "COLOMBIA",
+            "countrycode": "col",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
+        },
+        {
+            "description": "COSTARICA",
             "countrycode": "cri",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
+            "description": "CZECHREP",
             "countrycode": "cze",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
+            "description": "GERMANY",
             "countrycode": "deu",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "3000",
-            "LastUnallocatedLcn": "3999",
-            "tidy-db": "tsid,onid",
-            "operatorlist": "deu_operators"
+            "lcntype": "share",
+            "firstunallocatedlcn": "3000",
+            "lastunallocatedlcn": "3999",
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "Sky Deutschland",
+                    "code": "0x0001",
+                    "firstunallocatedlcn": "300",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "satellite_deu_sky.json"
+                }
+            ]
         },
         {
+            "description": "DOMINICA",
             "countrycode": "dma",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "dnk",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
+            "description": "ECUADOR",
             "countrycode": "ecu",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
-            "countrycode": "esp",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "description": "ELSALVADOR",
+            "countrycode": "slv",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
+        },
+        {
+            "countrycode": "est",
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "fin",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899"
         },
         {
             "countrycode": "fra",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899"
         },
         {
             "countrycode": "gbr",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "hrv",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "isl",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "ita",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "850",
-            "LastUnallocatedLcn": "999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "850",
+            "lastunallocatedlcn": "999"
         },
         {
             "countrycode": "nor",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "0",
-            "LastUnallocatedLcn": "899"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "0",
+            "lastunallocatedlcn": "899"
         },
         {
             "countrycode": "nzl",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "rus",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899"
         },
         {
             "countrycode": "srb",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "swe",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         },
         {
             "countrycode": "tur",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "operatorlist": "tur_operators"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "operatorsList": [
+                {
+                    "name": "TKGS",
+                    "code": "0x0301",
+                    "lcntype": "share"
+                },
+                {
+                    "countrycode": "tur",
+                    "name": "Other Operators",
+                    "code": "0xffff",
+                    "lcntype": "alwaysoff"
+                }
+            ]
         },
         {
             "countrycode": "ukr",
-            "LCN": "3",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "lcntype": "alwaysoff",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999"
         }
     ],
-
-    "deu_operators": [
+    "countrydataexample":
+    {
+        "countrycode": "deu",
+        "lcntype": "Share",
+        "firstunallocatedlcn": "3000",
+        "lastunallocatedlcn": "9999",
+        "tidydb": "0x00",
+        "beouquetid":"0x111",
+        "frequencylist": "satellite_deu_sky.json",
+        "protocoltype":"EACEM",
+        "netidmax":"0xffff",
+        "orignetidmax":"0xffff",
+        "needmatchonid":["0x2114","0x0085","0x22f1"],
+        "privatedatacode": ["0x28","0x66","0x88"],
+        "presortfilename":"xxxxxx.json",
+        "lcnon":
         {
-            "countrycode": "deu",
-            "name": "Astra HD+",
-            "code": "0x0000",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
+            "radiolcnoffset": "0",
+            "otherlcnoffset":"0",
+            "servicesorttype":["servicename","servicetype","serviceid","frequency"]
         },
+        "lcnoff":
         {
-            "countrycode": "deu",
-            "name": "Sky Deutschland",
-            "code": "0x0001",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "300",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "0x01",
-            "frequencylist": "satellite_deu_sky.json"
+            "tvfirstunallocatedlcn":"1",
+            "radiofirstunallocatedlcn": "0",
+            "otherfirstunallocatedlcn":"0",
+            "servicesorttype":["servicename","servicetype","serviceid","frequency"]
         },
-        {
-            "countrycode": "deu",
-            "name": "M7",
-            "code": "0x0002",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
-        },
-        {
-            "countrycode": "deu",
-            "name": "Other Operators",
-            "code": "0xffff",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999"
-        }
-    ],
-
-    "tur_operators": [
-        {
-            "countrycode": "tur",
-            "name": "TKGS",
-            "code": "0x0301",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "tur",
-            "name": "Other Operators",
-            "code": "0xffff",
-            "LCN": "3"
-        }
-    ]
+        "operatorsList": [
+            {
+                "name": "Astra HD+",
+                "code": "0x0000",
+                "privatedatacode": ["0x28","0x66","0x88"],
+                "firstunallocatedlcn": "800",
+                "lastunallocatedlcn": "9999",
+                "tidydb": "0x01",
+                "frequencylist": "satellite_deu_sky.json"
+            },
+            {
+                "name": "Sky Deutschland",
+                "code": "0x0001",
+                "privatedatacode": ["0x28","0x66","0x88"],
+                "firstunallocatedlcn": "300",
+                "lastunallocatedlcn": "9999",
+                "tidydb": "0x01",
+                "frequencylist": "satellite_deu_sky.json"
+            }
+        ]
+    }
 }

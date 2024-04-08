@@ -1,401 +1,379 @@
 {
+    "comment":
+    [
+        "formatcheck: https://www.bejson.com/explore/index_new/",
+        "lcntype: default value is share",
+            "alone: when UI switch lcn on or off, the lcn value will be changed in this dtv type",
+            "share: when UI switch lcn on or off, the lcn value will be changed in all dtv type",
+            "alwaysoff: no care ui setting, always off",
+            "alwayson: no care ui setting, always on",
+        "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:remove duplicate service 1:save duplicate service, default is 0x00",
+        "sortservicepriority: sort priority sort type: servicename,InTs,frequency,serviceid,servicetype,SignalLevel,Scramble,Resolution",
+        "tvfirstunallocatedlcn: TV service first unallocated lcn",
+        "radiofirstunallocatedlcn: radio service first unallocated lcn",
+        "otherfirstunallocatedlcn: other service first unallocated lcn",
+        "radiolcnoffset:  radio lcnoff set",
+        " FALSE/TRUE, default is FALSE",
+        "privatedatacode: if no set, use pravitedata in country setting",
+        "firstunallocatedlcn: if no be set, this value is 800",
+        "lastunallocatedlcn=if no be set, this value is 9999",
+        "protocoltype: EACEM, NORDIG,DBOOK,SEA, OTHER",
+        "netidmax=0xffff;orignetidmax=0xffff",
+        "needmatchonid: this country must match onid list,",
+        "presortfilename: customer lcn file",
+        "the end"
+    ],
+
+    "cfgversion": 1,
+    "countrydefaultvalue":
+    {
+        "lcntype": "share",
+        "firstunallocatedlcn": "800",
+        "lastunallocatedlcn": "9999"
+    },
     "countrylist": [
         {
-            "countrycode": "def",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid",
-            "frequencylist": "dvbcfrelist_default.json"
+            "description": "ARGENTINA",
+            "countrycode": "arg",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "aus",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "350",
-            "LastUnallocatedLcn": "399",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "350",
+            "lastunallocatedlcn": "399",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "aut",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "bel",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
-            "countrycode": "blr",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "description": "BOLIVIA",
+            "countrycode": "bol",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
-            "countrycode": "chi",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "description": "BRAZIL",
+            "countrycode": "bra",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999"
         },
         {
-            "countrycode": "cmr",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid",
-            "frequencylist": "dvbcfrelist_default.json"
+            "description": "CHILE",
+            "countrycode": "chl",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
+            "description": "COLOMBIA",
+            "countrycode": "col",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
+        },
+        {
+            "description": "COSTARICA",
             "countrycode": "cri",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
+            "description": "CZECHREP",
             "countrycode": "cze",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
+            "description": "GERMANY",
             "countrycode": "deu",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "999",
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "KDG",
+                    "code": "0x0003",
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "dvbcfrelist_deu_kdg.json"
+                },
+                {
+                    "name": "Unitymedia",
+                    "code": "0x0004",
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "lcnon":
+                    {
+                        "radiolcnoffset": "3000",
+                        "otherlcnoffset":"0",
+                        "servicesorttype":["servicename","servicetype","serviceid","frequency"]
+                    },
+                    "frequencylist": "dvbcfrelist_deu_um.json"
+                },
+                {
+                    "name": "PYUR",
+                    "code": "0x0005",
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "dvbcfrelist_deu_pyur.json"
+                },
+                {
+                    "name": "other operators",
+                    "code": "0xFFFF",
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "dvbcfrelist_deu_kdg.json"
+                }
+            ]
         },
         {
+            "description": "DOMINICA",
             "countrycode": "dma",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "dnk",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
+            "description": "ECUADOR",
             "countrycode": "ecu",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
+        },
+        {
+            "description": "ELSALVADOR",
+            "countrycode": "slv",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "egy",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00",
             "frequencylist": "dvbcfrelist_default.json"
         },
         {
-            "countrycode": "esp",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "countrycode": "est",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "fin",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "fra",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x00"
         },
         {
+            "description": "COUNTRY_CODE_UK",
             "countrycode": "gbr",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "1000",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "hrv",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
-            "countrycode": "isl",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "countrycode": "irl",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "ita",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "850",
-            "LastUnallocatedLcn": "999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "850",
+            "lastunallocatedlcn": "999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "ken",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00",
             "frequencylist": "dvbcfrelist_default.json"
         },
         {
+            "description": "NORWAY",
             "countrycode": "nor",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "0",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "0",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "nzl",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "rus",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x00",
             "frequencylist": "dvbcfrelist_rus.json",
             "operatorlist": "rus_operators"
         },
         {
             "countrycode": "srb",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "swe",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "tur",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "899",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x00"
         },
         {
             "countrycode": "ukr",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1",
-            "FirstUnallocatedLcn": "800",
-            "LastUnallocatedLcn": "9999",
-            "tidy-db": "tsid,onid"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00"
         }
     ],
-    "rus_operators": [
+    "countrydataexample": [
         {
-            "countrycode": "rus",
-            "name": "Onlime",
-            "code": "0x0100",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "306000",
-            "symbolrate": "0",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "rus",
-            "name": "Akado",
-            "code": "0x0101",
-            "modulation": "auto",
-            "networkid": "41024",
-            "frequency": "330000",
-            "symbolrate": "6875",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "rus",
-            "name": "Dom.ru",
-            "code": "0x0102",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "rus",
-            "name": "Rostelecom",
-            "code": "0x0103",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "rus",
-            "name": "MST",
-            "code": "0x0104",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "rus",
-            "name": "Kabinet TV",
-            "code": "0x0105",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1"
-        },
-        {
-            "countrycode": "rus",
-            "name": "Other Operators",
-            "code": "0xffff",
-            "modulation": "auto",
-            "networkid": "0",
-            "frequency": "0",
-            "symbolrate": "0",
-            "LCN": "1"
+            "countrycode": "deu",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "999",
+            "tidydb": "0x00",
+            "frequencylist": "dvbcfrelist_deu.json",
+            "protocoltype":"EACEM",
+            "netidmax":"0xffff",
+            "orignetidmax":"0xffff",
+            "needmatchonid":["0x2114","0x0085","0x22f1"],
+            "privatedatacode": ["0x28","0x66","0x88"],
+            "blindscanfreqmax":"826000000",
+            "blindscanfreqmin":"47000000",
+            "blindscanstep":"1000000",
+            "presortfilename":"xxxxxx.json",
+            "lcnon":
+            {
+                "radiolcnoffset": "2000",
+                "otherlcnoffset":"0",
+                "servicesorttype":["servicename","servicetype","serviceid","frequency"]
+            },
+            "lcnoff":
+            {
+                "tvfirstunallocatedlcn":"1",
+                "radiofirstunallocatedlcn": "0",
+                "otherfirstunallocatedlcn":"0",
+                "servicesorttype":["servicename","servicetype","serviceid","frequency"]
+            },
+            "operatorsList": [
+                {
+                 "name": "KDG",
+                    "code": "0x0003",
+                    "privatedatacode": ["0x28","0x66"],
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "cable_deu_kdg.json"
+                },
+                {
+                 "name": "Unitymedia",
+                    "code": "0x0004",
+                    "privatedatacode": ["0x28","0x66"],
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "cable_deu_um.json"
+                },
+                {
+                    "name": "PYUR",
+                    "code": "0x0005",
+                    "privatedatacode": ["0x28","0x66"],
+                    "firstunallocatedlcn": "300",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "cable_deu_pyur.json"
+                },
+                {
+                    "name": "other operators",
+                    "code": "0xFFFE",
+                    "privatedatacode": ["0x28","0x66"],
+                    "firstunallocatedlcn": "300",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "cable_deu_pyur.json"
+                }
+            ]
         }
     ]
 }

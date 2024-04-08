@@ -1,0 +1,70 @@
+{
+    "comment":
+    [
+        "formatcheck: https://www.bejson.com/explore/index_new/",
+        "defaultcountrycode: First boot country setting",
+        "lcnon: true：default on; false: default is on",
+        "countrycode: define in https://countrycode.org/",
+        "description: only for understanding",
+        "signaltype: this operator be used in which signal type, the  value content sate cable or  terr ",
+        "the end"
+    ],
+    "cfgversion": 1,
+    "commondata":
+    {
+        "defaultcountrycode":"rus"
+    },
+    "countrydefaultvalue":
+    {
+        "lcnon": true
+    },
+    "countrylist": [
+        {
+            "description": "Spain",
+            "countrycode": "esp",
+            "lcnon": false
+        },
+        {
+            "description": "Germany",
+            "countrycode": "deu",
+            "lcnon": true,
+            "operatorsList": [
+                {
+                    "name": "Sky Deutschland",
+                    "code": "0x0001",
+                    "signaltype":"sate",
+                    "lcnon": false
+                },
+                {
+                    "name": "KDG",
+                    "code": "0x0003",
+                    "signaltype":"cable",
+                    "lcnon": false
+                },
+                {
+                    "name": "Unitymedia",
+                    "code": "0x0004",
+                    "signaltype":"cable",
+                    "lcnon": true
+                },
+                {
+                    "name": "PYUR",
+                    "code": "0x0005",
+                    "signaltype":"cable",
+                    "lcnon": true
+                },
+                {
+                    "name": "other operators",
+                    "code": "0xFFFF",
+                    "signaltype":"cable",
+                    "lcnon": false
+                }
+            ]
+        },
+        {
+            "description": "Gambia",
+            "countrycode": "gmb",
+            "lcnon": false
+        }
+    ]
+}
