@@ -21,6 +21,44 @@ include $(CLEAR_VARS)
     LOCAL_MODULE_SUFFIX := .so
     LOCAL_VENDOR_MODULE := true
     LOCAL_SHARED_LIBRARIES :=  \
+        libdtvkit_platform_ATF \
+        liblog
+    LOCAL_LICENSE_KINDS := legacy_notice
+    LOCAL_LICENSE_CONDITIONS := notice
+include $(BUILD_PREBUILT)
+
+$(warning "prebuilt libdvbserver.so")
+include $(CLEAR_VARS)
+    LOCAL_MODULE := libdvbserver
+    LOCAL_SRC_FILES := libdvbserver.so
+    LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+    LOCAL_MODULE_SUFFIX := .so
+    LOCAL_VENDOR_MODULE := true
+    LOCAL_SHARED_LIBRARIES :=  \
+        libteec \
+        libft2-aml \
+        libutils \
+        liblog \
+        libdsm \
+        libdtvkit_tuner_jni_wrapper \
+        libdtvkit_platform_ATF \
+        libbase \
+        libhidlbase \
+        libsystemcontrolservice \
+        vendor.amlogic.hardware.systemcontrol@1.0 \
+        vendor.amlogic.hardware.systemcontrol@1.1
+    LOCAL_LICENSE_KINDS := legacy_notice
+    LOCAL_LICENSE_CONDITIONS := notice
+include $(BUILD_PREBUILT)
+
+$(warning "prebuilt libisdbserver.so")
+include $(CLEAR_VARS)
+    LOCAL_MODULE := libisdbserver
+    LOCAL_SRC_FILES := libisdbserver.so
+    LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+    LOCAL_MODULE_SUFFIX := .so
+    LOCAL_VENDOR_MODULE := true
+    LOCAL_SHARED_LIBRARIES :=  \
         libteec \
         libft2-aml \
         libutils \
