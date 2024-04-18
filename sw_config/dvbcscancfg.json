@@ -140,7 +140,7 @@
                 },
                 {
                     "name": "PYUR",
-                    "code": "0x0005",
+                    "code": "0x0006",
                     "firstunallocatedlcn": "800",
                     "lastunallocatedlcn": "9999",
                     "tidydb": "0x01",

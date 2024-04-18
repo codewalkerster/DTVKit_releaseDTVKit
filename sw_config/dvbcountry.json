@@ -1,7 +1,7 @@
 {
     "comment":[
         "formatcheck: https://www.bejson.com/explore/index_new/",
-        "pravitedatacode: 0xFFFFFFFF（default）:Don't care PDSD, use all private descriptors,0x0:Any private descriptors shall not be used, others:need match pdsd",
+        "privatedatacode: 0xFFFFFFFF（default）:Don't care PDSD, use all private descriptors,0x0:Any private descriptors shall not be used, others:need match pdsd",
         "aerialpoweroptionreqd: true(false),default is true",
         "defaultaerialpower: true(false), default is true",
         "eitsearchperday: 1(default value)",
@@ -29,7 +29,7 @@
     "countrydefaultvalue":
     {
         "languagelist": "language_default.json",
-        "pravitedatacode": "0x0"
+        "privatedatacode": "0x0"
     },
     "countrylist": [
         {
@@ -38,7 +38,7 @@
             "languagelist": "language_default.json",
             "primarylang": "fra",
             "secondarylang": "pus",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "alb",
@@ -46,7 +46,7 @@
             "languagelist": "language_default.json",
             "primarylang": "sqi",
             "secondarylang": "sqi",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "dza",
@@ -54,7 +54,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ara",
             "secondarylang": "ara",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "ago",
@@ -62,7 +62,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "eng",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "arg",
@@ -70,7 +70,7 @@
             "languagelist": "language_default.json",
             "primarylang": "spa",
             "secondarylang": "eng",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "arm",
@@ -78,7 +78,7 @@
             "languagelist": "language_default.json",
             "primarylang": "arm",
             "secondarylang": "arm",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "aus",
@@ -86,7 +86,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "eng",
-            "pravitedatacode": "0xFFFFFFFF"
+            "privatedatacode": "0xFFFFFFFF"
         },
         {
             "countrycode": "aut",
@@ -94,7 +94,7 @@
             "languagelist": "language_default.json",
             "primarylang": "deu",
             "secondarylang": "deu",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "aze",
@@ -102,7 +102,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "eng",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "bhr",
@@ -110,7 +110,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ara",
             "secondarylang": "eng",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "bgd",
@@ -118,7 +118,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "eng",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "blr",
@@ -126,7 +126,7 @@
             "languagelist": "language_default.json",
             "primarylang": "rus",
             "secondarylang": "rus",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "ben",
@@ -134,7 +134,7 @@
             "languagelist": "language_default.json",
             "primarylang": "fra",
             "secondarylang": "eng",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "bol",
@@ -142,7 +142,7 @@
             "languagelist": "language_default.json",
             "primarylang": "spa",
             "secondarylang": "que",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "bih",
@@ -150,7 +150,7 @@
             "languagelist": "language_default.json",
             "primarylang": "bos",
             "secondarylang": "hrv",
-            "pravitedatacode": "0x0"
+            "privatedatacode": "0x0"
         },
         {
             "countrycode": "bdi",
@@ -200,7 +200,7 @@
             "languagelist": "language_default.json",
             "primarylang": "bul",
             "secondarylang": "bul",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "cmr",
@@ -229,7 +229,7 @@
             "languagelist": "language_default.json",
             "primarylang": "spa",
             "secondarylang": "eng",
-            "pravitedatacode": "0xFFFFFFFF"
+            "privatedatacode": "0xFFFFFFFF"
         },
         {
             "countrycode": "cri",
@@ -237,7 +237,7 @@
             "languagelist": "language_default.json",
             "primarylang": "spa",
             "secondarylang": "eng",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "hrv",
@@ -245,7 +245,7 @@
             "languagelist": "language_default.json",
             "primarylang": "hrv",
             "secondarylang": "hrv",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "cze",
@@ -261,7 +261,7 @@
             "primarylang": "dan",
             "secondarylang": "dan",
             "protocoltype":"NORDIG",
-            "pravitedatacode": "0x31"
+            "privatedatacode": "0x31"
         },
         {
             "countrycode": "dom",
@@ -297,7 +297,7 @@
             "languagelist": "language_default.json",
             "primarylang": "est",
             "secondarylang": "est",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "fin",
@@ -306,7 +306,7 @@
             "primarylang": "fin",
             "secondarylang": "swe",
             "protocoltype":"NORDIG",
-            "pravitedatacode": "0x29"
+            "privatedatacode": "0x29"
         },
         {
             "countrycode": "fra",
@@ -314,7 +314,7 @@
             "languagelist": "language_default.json",
             "primarylang": "fra",
             "secondarylang": "fra",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "geo",
@@ -322,7 +322,7 @@
             "languagelist": "language_default.json",
             "primarylang": "geo",
             "secondarylang": "geo",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "deu",
@@ -331,7 +331,7 @@
             "primarylang": "deu",
             "secondarylang": "deu",
             "protocoltype":"EACEM",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "gha",
@@ -346,7 +346,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ell",
             "secondarylang": "ell",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "gtm",
@@ -368,7 +368,7 @@
             "languagelist": "language_default.json",
             "primarylang": "hun",
             "secondarylang": "hun",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "ind",
@@ -383,7 +383,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ind",
             "secondarylang": "ind",
-            "pravitedatacode": "0x2168"
+            "privatedatacode": "0x2168"
         },
         {
             "countrycode": "irn",
@@ -406,7 +406,7 @@
             "primarylang": "eng",
             "secondarylang": "eng",
             "protocoltype":"NORDIG",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "isr",
@@ -421,7 +421,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ita",
             "secondarylang": "ita",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "jor",
@@ -464,7 +464,7 @@
             "languagelist": "language_default.json",
             "primarylang": "lav",
             "secondarylang": "lav",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "lby",
@@ -479,7 +479,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "eng",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "lux",
@@ -501,7 +501,7 @@
             "languagelist": "language_default.json",
             "primarylang": "may",
             "secondarylang": "eng",
-            "pravitedatacode": "0x21ca"
+            "privatedatacode": "0x21ca"
         },
         {
             "countrycode": "mex",
@@ -523,7 +523,7 @@
             "languagelist": "language_default.json",
             "primarylang": "mya",
             "secondarylang": "mya",
-            "pravitedatacode": "0x2068"
+            "privatedatacode": "0x2068"
         },
         {
             "countrycode": "nld",
@@ -531,7 +531,7 @@
             "languagelist": "language_default.json",
             "primarylang": "nld",
             "secondarylang": "eng",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "nzl",
@@ -596,7 +596,7 @@
             "languagelist": "language_default.json",
             "primarylang": "pol",
             "secondarylang": "pol",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "prt",
@@ -604,7 +604,7 @@
             "languagelist": "language_default.json",
             "primarylang": "por",
             "secondarylang": "por",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "qat",
@@ -619,7 +619,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ron",
             "secondarylang": "ron",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "rus",
@@ -627,7 +627,7 @@
             "languagelist": "language_default.json",
             "primarylang": "rus",
             "secondarylang": "rus",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "sau",
@@ -642,7 +642,7 @@
             "languagelist": "language_default.json",
             "primarylang": "srp",
             "secondarylang": "srp",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "sgp",
@@ -650,7 +650,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "zho",
-            "pravitedatacode": "0x19"
+            "privatedatacode": "0x19"
         },
         {
             "countrycode": "svk",
@@ -665,7 +665,7 @@
             "languagelist": "language_default.json",
             "primarylang": "slv",
             "secondarylang": "slv",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "zaf",
@@ -673,7 +673,7 @@
             "languagelist": "language_default.json",
             "primarylang": "afr",
             "secondarylang": "eng",
-            "pravitedatacode": "0x22c6"
+            "privatedatacode": "0x22c6"
         },
         {
             "countrycode": "esp",
@@ -681,7 +681,7 @@
             "languagelist": "language_default.json",
             "primarylang": "spa",
             "secondarylang": "cat",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "swe",
@@ -697,7 +697,7 @@
             "languagelist": "language_default.json",
             "primarylang": "deu",
             "secondarylang": "fra",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "tjk",
@@ -719,7 +719,7 @@
             "languagelist": "language_default.json",
             "primarylang": "tha",
             "secondarylang": "eng",
-            "pravitedatacode": "0x22fc"
+            "privatedatacode": "0x22fc"
         },
         {
             "countrycode": "tun",
@@ -734,7 +734,7 @@
             "languagelist": "language_default.json",
             "primarylang": "tur",
             "secondarylang": "eng",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "tkm",
@@ -770,7 +770,7 @@
             "languagelist": "language_default.json",
             "primarylang": "eng",
             "secondarylang": "eng",
-            "pravitedatacode": "0x233a"
+            "privatedatacode": "0x233a"
         },
         {
             "countrycode": "uzb",
@@ -785,7 +785,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ukr",
             "secondarylang": "ukr",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "ven",
@@ -856,7 +856,7 @@
             "languagelist": "language_default.json",
             "primarylang": "ara",
             "secondarylang": "eng",
-            "pravitedatacode": "0x28"
+            "privatedatacode": "0x28"
         },
         {
             "countrycode": "yem",
@@ -1497,6 +1497,6 @@
          "primarylang": "dan",
          "secondarylang": "dan",
          "protocoltype":"NORDIG",
-         "pravitedatacode": "0x31"
+         "privatedatacode": "0x31"
     }
 }

@@ -142,7 +142,6 @@
             "lastunallocatedlcn": "9999",
             "tidydb": "0x00",
             "sdtmandatory": "FALSE",
-            "protocoltype":"NORDIG",
             "frequencylist": "dvbtfrelist_deu.json"
         },
         {
