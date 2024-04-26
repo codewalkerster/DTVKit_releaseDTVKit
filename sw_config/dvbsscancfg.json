@@ -112,6 +112,13 @@
                     "lastunallocatedlcn": "9999",
                     "tidydb": "0x01",
                     "frequencylist": "satellite_deu_sky.json"
+                },
+                {
+                     "name": "Astra HD+",
+                     "code": "0x0005",
+                     "firstunallocatedlcn": "800",
+                     "lastunallocatedlcn": "9999",
+                     "tidydb": "0x01"
                 }
             ]
         },
@@ -180,9 +187,15 @@
         },
         {
             "countrycode": "ita",
-            "lcntype": "alwaysoff",
-            "firstunallocatedlcn": "850",
-            "lastunallocatedlcn": "999"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "operatorlist": [
+                {
+                    "name": "Tivusat",
+                    "code": "0x0600"
+                }
+            ]
         },
         {
             "countrycode": "nor",
@@ -238,6 +251,18 @@
             "lcntype": "alwaysoff",
             "firstunallocatedlcn": "800",
             "lastunallocatedlcn": "9999"
+        },
+        {
+            "countrycode": "pol",
+            "lcntype": "share",
+            "FirstUnallocatedLcn": "1000",
+            "LastUnallocatedLcn": "9999",
+            "operatorlist": [
+                {
+                    "name": "Canal+",
+                    "code": "0x0500"
+                }
+            ]
         }
     ],
     "countrydataexample":
@@ -271,7 +296,7 @@
         "operatorsList": [
             {
                 "name": "Astra HD+",
-                "code": "0x0000",
+                "code": "0x0005",
                 "privatedatacode": ["0x28","0x66","0x88"],
                 "firstunallocatedlcn": "800",
                 "lastunallocatedlcn": "9999",
