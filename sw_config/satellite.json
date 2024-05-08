@@ -3,7 +3,7 @@
       {
          "bound_lnb" : "0",
          "east" : false,
-         "long_pos" : 8,
+         "long_pos" : 10,
          "name" : "Thor 5/6",
          "dish_pos" : 1,
          "transponderlist" : [

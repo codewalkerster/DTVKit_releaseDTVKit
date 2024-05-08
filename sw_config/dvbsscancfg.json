@@ -118,19 +118,13 @@
                      "code": "0x0005",
                      "firstunallocatedlcn": "800",
                      "lastunallocatedlcn": "9999",
-                     "tidydb": "0x01"
+                     "tidydb": "0x03"
                 }
             ]
         },
         {
             "description": "DOMINICA",
             "countrycode": "dma",
-            "lcntype": "alwaysoff",
-            "firstunallocatedlcn": "1000",
-            "lastunallocatedlcn": "9999"
-        },
-        {
-            "countrycode": "dnk",
             "lcntype": "alwaysoff",
             "firstunallocatedlcn": "1000",
             "lastunallocatedlcn": "9999"
@@ -156,16 +150,18 @@
             "lastunallocatedlcn": "9999"
         },
         {
-            "countrycode": "fin",
-            "lcntype": "alwaysoff",
-            "firstunallocatedlcn": "800",
-            "lastunallocatedlcn": "899"
-        },
-        {
+            "description": "FRANCE",
             "countrycode": "fra",
-            "lcntype": "alwaysoff",
+            "lcntype": "share",
             "firstunallocatedlcn": "800",
-            "lastunallocatedlcn": "899"
+            "lastunallocatedlcn": "899",
+            "operatorlist": [
+                {
+                    "name": "Fransat",
+                    "code": "0x0800",
+                    "tidydb": "0x03"
+                }
+            ]
         },
         {
             "countrycode": "gbr",
@@ -198,10 +194,56 @@
             ]
         },
         {
+            "description": "NORDIG-DENMARK",
+            "countrycode": "dnk",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+             "operatorlist": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901"
+                }
+            ]
+        },
+        {
+            "description": "NORDIG-NORWAY",
             "countrycode": "nor",
-            "lcntype": "alwaysoff",
-            "firstunallocatedlcn": "0",
-            "lastunallocatedlcn": "899"
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "operatorlist": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901"
+                }
+            ]
+        },
+        {
+            "description": "NORDIG-SWEDEN",
+            "countrycode": "swe",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "operatorlist": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901"
+                }
+            ]
+        },
+        {
+            "description": "NORDIG-FINLAND",
+            "countrycode": "fin",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "operatorlist": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901"
+                }
+            ]
         },
         {
             "countrycode": "nzl",
@@ -222,12 +264,6 @@
             "lastunallocatedlcn": "9999"
         },
         {
-            "countrycode": "swe",
-            "lcntype": "alwaysoff",
-            "firstunallocatedlcn": "800",
-            "lastunallocatedlcn": "9999"
-        },
-        {
             "countrycode": "tur",
             "lcntype": "share",
             "firstunallocatedlcn": "800",
@@ -239,7 +275,6 @@
                     "lcntype": "share"
                 },
                 {
-                    "countrycode": "tur",
                     "name": "Other Operators",
                     "code": "0xffff",
                     "lcntype": "alwaysoff"
