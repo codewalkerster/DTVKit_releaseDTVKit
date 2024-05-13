@@ -455,6 +455,16 @@
             "sdtmandatory": "FALSE"
         },
         {
+            "countrycode": "twn",
+            "terrtype": "DVB-A",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "899",
+            "tidydb": "0x01",
+            "sdtmandatory": "FALSE",
+            "frequencylist": "dvbtfrelist_twn.json"
+        },
+        {
             "countrycode": "ukr",
             "terrtype": "DVB-A",
             "lcntype": "share",
