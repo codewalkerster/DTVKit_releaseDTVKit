@@ -74,6 +74,30 @@ include $(CLEAR_VARS)
     LOCAL_LICENSE_KINDS := legacy_notice
     LOCAL_LICENSE_CONDITIONS := notice
 include $(BUILD_PREBUILT)
+
+$(warning "prebuilt libatscserver.so")
+include $(CLEAR_VARS)
+    LOCAL_MODULE := libatscserver
+    LOCAL_SRC_FILES := libatscserver.so
+    LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+    LOCAL_MODULE_SUFFIX := .so
+    LOCAL_VENDOR_MODULE := true
+    LOCAL_SHARED_LIBRARIES :=  \
+        libteec \
+        libft2-aml \
+        libutils \
+        liblog \
+        libdsm \
+        libdtvkit_tuner_jni_wrapper \
+        libdtvkit_platform_ATF \
+        libbase \
+        libhidlbase \
+        libsystemcontrolservice \
+        vendor.amlogic.hardware.systemcontrol@1.0 \
+        vendor.amlogic.hardware.systemcontrol@1.1
+    LOCAL_LICENSE_KINDS := legacy_notice
+    LOCAL_LICENSE_CONDITIONS := notice
+include $(BUILD_PREBUILT)
 endif
 
 include $(CLEAR_VARS)
@@ -234,6 +258,49 @@ LOCAL_MODULE_RELATIVE_PATH := hw
 LOCAL_MULTILIB := 32
 include $(BUILD_PREBUILT)
 
+include $(CLEAR_VARS)
+LOCAL_MODULE_CLASS := EXECUTABLES
+LOCAL_MODULE_TAGS := optional
+LOCAL_PRELINK_MODULE := false
+LOCAL_VENDOR_MODULE := true
+LOCAL_STRIP_MODULE := false
+LOCAL_SHARED_LIBRARIES := \
+    android.hidl.allocator@1.0 \
+    libbase \
+    libbinder \
+    libc++ \
+    libc \
+    libcrypto \
+    libcurl \
+    libcutils \
+    libft2-aml \
+    libhidlbase \
+    libhidlmemory \
+    libhidltransport \
+    libjpeg \
+    liblog \
+    libmediahal_resman \
+    libmediahal_tsplayer \
+    libmediandk \
+    libsqlite \
+    libssl \
+    libutils \
+    vendor.amlogic.hardware.dtvkitserver@1.0 \
+    libaml_mp_sdk.vendor \
+    libutilscallstack \
+    libteec \
+    libsystemcontrolservice \
+    vendor.amlogic.hardware.systemcontrol@1.0 \
+    vendor.amlogic.hardware.systemcontrol@1.1 \
+    libfmq.vendor \
+    libdtvkit_platform
+LOCAL_MODULE := atsc_server
+LOCAL_SRC_FILES := atsc_server
+LOCAL_LICENSE_KINDS := legacy_notice
+LOCAL_LICENSE_CONDITIONS := notice
+LOCAL_MODULE_RELATIVE_PATH := hw
+LOCAL_MULTILIB := 32
+include $(BUILD_PREBUILT)
 endif
 
 include $(call all-makefiles-under,$(LOCAL_PATH))
