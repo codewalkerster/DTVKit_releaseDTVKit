@@ -29,7 +29,8 @@
     {
         "lcntype": "share",
         "firstunallocatedlcn": "800",
-        "lastunallocatedlcn": "9999"
+        "lastunallocatedlcn": "9999",
+        "frequencylist": "dvbcfrelist_default.json"
     },
     "countrylist": [
         {
@@ -151,8 +152,7 @@
                     "code": "0xFFFF",
                     "firstunallocatedlcn": "800",
                     "lastunallocatedlcn": "9999",
-                    "tidydb": "0x01",
-                    "frequencylist": "dvbcfrelist_deu_kdg.json"
+                    "tidydb": "0x01"
                 }
             ]
         },
