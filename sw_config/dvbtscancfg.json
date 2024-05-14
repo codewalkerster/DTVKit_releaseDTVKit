@@ -301,10 +301,11 @@
             "countrycode": "irl",
             "terrtype": "DVB-A",
             "lcntype": "share",
-            "firstunallocatedlcn": "800",
+            "firstunallocatedlcn": "1",
             "lastunallocatedlcn": "9999",
             "tidydb": "0x00",
-            "sdtmandatory": "TRUE"
+            "sdtmandatory": "TRUE",
+            "frequencylist": "dvbtfrelist_irl.json"
         },
         {
             "countrycode": "isr",
@@ -420,10 +421,11 @@
             "countrycode": "swe",
             "terrtype": "DVB-A",
             "lcntype": "share",
-            "firstunallocatedlcn": "800",
+            "firstunallocatedlcn": "1",
             "lastunallocatedlcn": "9999",
             "tidydb": "0x00",
-            "sdtmandatory": "TRUE"
+            "sdtmandatory": "TRUE",
+            "frequencylist": "dvbtfrelist_uhf_default.json"
         },
         {
             "countrycode": "tha",
