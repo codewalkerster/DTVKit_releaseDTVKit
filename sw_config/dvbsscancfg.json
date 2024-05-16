@@ -101,7 +101,7 @@
             "description": "GERMANY",
             "countrycode": "deu",
             "lcntype": "share",
-            "firstunallocatedlcn": "3000",
+            "firstunallocatedlcn": "1",
             "lastunallocatedlcn": "3999",
             "tidydb": "0x00",
             "operatorsList": [
