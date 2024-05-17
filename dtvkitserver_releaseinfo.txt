@@ -1,6 +1,6 @@
 android-rpcservice
-commit 0ef49136d36aca5bdb297460412b678a1d2c7f49
-Date:   Mon Apr 29 17:04:20 2024 +0800
+commit 698c6d42e104446da63bf048e6185827379b1759
+Date:   Sat May 11 17:57:19 2024 +0800
 DVBCore
 commit 97e938a9c4ab9bc5c58c0ff3d1e867bf96a1fbc2
 Date:   Thu May 16 03:39:55 2024 -0700
@@ -23,8 +23,8 @@ ISDB
 commit b3bd9695d4087ffd248322cc1c39e2265ed0baea
 Date:   Thu May 9 00:22:48 2024 -0700
 ATSC
-commit 0bbc5c018a60565be5a8fd44f38682f100296a98
-Date:   Wed May 8 07:59:22 2024 +0000
+commit 0f9ba981b30a7577a40c6d1b3004c127d2e49d23
+Date:   Sat May 11 18:00:02 2024 +0800
 ATV
 commit 708e0954d6b5d5cfd54c4c13e41a77a7676b7139
 Date:   Mon Apr 29 06:24:23 2024 +0000
