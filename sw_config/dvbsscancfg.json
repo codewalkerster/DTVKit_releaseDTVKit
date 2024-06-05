@@ -272,7 +272,9 @@
                 {
                     "name": "TKGS",
                     "code": "0x0301",
-                    "lcntype": "share"
+                    "lcntype": "share",
+                    "firstunallocatedlcn": "2000",
+                    "lastunallocatedlcn": "9999"
                 },
                 {
                     "name": "Other Operators",
