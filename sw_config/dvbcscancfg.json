@@ -152,7 +152,7 @@
                     "code": "0xFFFF",
                     "firstunallocatedlcn": "800",
                     "lastunallocatedlcn": "9999",
-                    "tidydb": "0x01"
+                    "tidydb": "0x00"
                 }
             ]
         },
