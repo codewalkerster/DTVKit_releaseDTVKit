@@ -169,7 +169,17 @@
             "lcntype": "share",
             "firstunallocatedlcn": "1000",
             "lastunallocatedlcn": "9999",
-            "tidydb": "0x00"
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "frequencylist": "dvbcfrelist_dnk_canaldigital.json"
+                }
+            ]
         },
         {
             "description": "ECUADOR",
@@ -207,7 +217,16 @@
             "lcntype": "share",
             "firstunallocatedlcn": "800",
             "lastunallocatedlcn": "899",
-            "tidydb": "0x00"
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00"
+                }
+            ]
         },
         {
             "countrycode": "fra",
@@ -259,7 +278,17 @@
             "lcntype": "share",
             "firstunallocatedlcn": "0",
             "lastunallocatedlcn": "899",
-            "tidydb": "0x00"
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "frequencylist": "dvbcfrelist_nor_canaldigital.json"
+                }
+            ]
         },
         {
             "countrycode": "nzl",
@@ -289,7 +318,17 @@
             "lcntype": "share",
             "firstunallocatedlcn": "800",
             "lastunallocatedlcn": "9999",
-            "tidydb": "0x00"
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "CanalDigital",
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "frequencylist": "dvbcfrelist_swe_canaldigital.json"
+                 }
+             ]
         },
         {
             "countrycode": "tur",
