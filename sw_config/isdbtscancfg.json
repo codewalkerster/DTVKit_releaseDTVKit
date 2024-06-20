@@ -1,0 +1,16 @@
+{
+    "countrylist": [
+        {
+            "countrycode": "def",
+            "isdbtype": "ISDB-T",
+            "networkid": "0",
+            "frequency": "0",
+            "LCN": "1",
+            "FirstUnallocatedLcn": "99",
+            "LastUnallocatedLcn": "255",
+            "tidy-db": "0x03",
+            "SDTMandatory": "FALSE",
+            "frequencylist": "isdbtfrelist_default.json"
+        }
+    ]
+}

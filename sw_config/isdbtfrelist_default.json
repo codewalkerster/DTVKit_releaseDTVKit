@@ -1,0 +1,382 @@
+{
+    "frequencylist": [
+        {
+            "name": "7",
+            "bandwidth": "6MHZ",
+            "frequency": "177143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "8",
+            "bandwidth": "6MHZ",
+            "frequency": "183143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "9",
+            "bandwidth": "6MHZ",
+            "frequency": "189143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "10",
+            "bandwidth": "6MHZ",
+            "frequency": "195143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "11",
+            "bandwidth": "6MHZ",
+            "frequency": "201143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "12",
+            "bandwidth": "6MHZ",
+            "frequency": "207143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "13",
+            "bandwidth": "6MHZ",
+            "frequency": "213143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "14",
+            "bandwidth": "6MHZ",
+            "frequency": "473143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "15",
+            "bandwidth": "6MHZ",
+            "frequency": "479143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "16",
+            "bandwidth": "6MHZ",
+            "frequency": "485143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "17",
+            "bandwidth": "6MHZ",
+            "frequency": "491143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "18",
+            "bandwidth": "6MHZ",
+            "frequency": "497143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "19",
+            "bandwidth": "6MHZ",
+            "frequency": "503143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "20",
+            "bandwidth": "6MHZ",
+            "frequency": "509143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "21",
+            "bandwidth": "6MHZ",
+            "frequency": "515143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "22",
+            "bandwidth": "6MHZ",
+            "frequency": "521143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "23",
+            "bandwidth": "6MHZ",
+            "frequency": "527143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "24",
+            "bandwidth": "6MHZ",
+            "frequency": "533143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "25",
+            "bandwidth": "6MHZ",
+            "frequency": "539143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "26",
+            "bandwidth": "6MHZ",
+            "frequency": "545143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "27",
+            "bandwidth": "6MHZ",
+            "frequency": "551143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "28",
+            "bandwidth": "6MHZ",
+            "frequency": "557143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "29",
+            "bandwidth": "6MHZ",
+            "frequency": "563143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "30",
+            "bandwidth": "6MHZ",
+            "frequency": "569143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "31",
+            "bandwidth": "6MHZ",
+            "frequency": "575143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "32",
+            "bandwidth": "6MHZ",
+            "frequency": "581143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "33",
+            "bandwidth": "6MHZ",
+            "frequency": "587143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "34",
+            "bandwidth": "6MHZ",
+            "frequency": "593143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "35",
+            "bandwidth": "6MHZ",
+            "frequency": "599143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "36",
+            "bandwidth": "6MHZ",
+            "frequency": "605143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "37",
+            "bandwidth": "6MHZ",
+            "frequency": "611143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "38",
+            "bandwidth": "6MHZ",
+            "frequency": "617143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "39",
+            "bandwidth": "6MHZ",
+            "frequency": "623143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "40",
+            "bandwidth": "6MHZ",
+            "frequency": "629143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "41",
+            "bandwidth": "6MHZ",
+            "frequency": "635143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "42",
+            "bandwidth": "6MHZ",
+            "frequency": "641143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "43",
+            "bandwidth": "6MHZ",
+            "frequency": "647143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "44",
+            "bandwidth": "6MHZ",
+            "frequency": "653143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "45",
+            "bandwidth": "6MHZ",
+            "frequency": "659143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "46",
+            "bandwidth": "6MHZ",
+            "frequency": "665143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "47",
+            "bandwidth": "6MHZ",
+            "frequency": "671143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "48",
+            "bandwidth": "6MHZ",
+            "frequency": "677143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "49",
+            "bandwidth": "6MHZ",
+            "frequency": "683143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "50",
+            "bandwidth": "6MHZ",
+            "frequency": "689143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "51",
+            "bandwidth": "6MHZ",
+            "frequency": "695143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "52",
+            "bandwidth": "6MHZ",
+            "frequency": "701143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "53",
+            "bandwidth": "6MHZ",
+            "frequency": "707143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "54",
+            "bandwidth": "6MHZ",
+            "frequency": "713143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "55",
+            "bandwidth": "6MHZ",
+            "frequency": "719143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "56",
+            "bandwidth": "6MHZ",
+            "frequency": "725143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "57",
+            "bandwidth": "6MHZ",
+            "frequency": "731143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "58",
+            "bandwidth": "6MHZ",
+            "frequency": "737143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "59",
+            "bandwidth": "6MHZ",
+            "frequency": "743143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "60",
+            "bandwidth": "6MHZ",
+            "frequency": "749143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "61",
+            "bandwidth": "6MHZ",
+            "frequency": "755143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "62",
+            "bandwidth": "6MHZ",
+            "frequency": "761143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "63",
+            "bandwidth": "6MHZ",
+            "frequency": "767143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "64",
+            "bandwidth": "6MHZ",
+            "frequency": "773143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "65",
+            "bandwidth": "6MHZ",
+            "frequency": "779143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "66",
+            "bandwidth": "6MHZ",
+            "frequency": "785143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "67",
+            "bandwidth": "6MHZ",
+            "frequency": "791143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "68",
+            "bandwidth": "6MHZ",
+            "frequency": "797143000",
+            "cofdmmode": "udef"
+        },
+        {
+            "name": "69",
+            "bandwidth": "6MHZ",
+            "frequency": "803143000",
+            "cofdmmode": "udef"
+        }
+    ]
+}
