@@ -1489,6 +1489,13 @@
             "secondarylang": "eng"
         }
     ],
+    "servicelistexample":
+    {
+        "servicefilter":
+        {
+            "data_service":["ota"]
+        }
+    },
     "countrydataexample": {
         "countrycode": "dnk",
         "countryname": "Denmark",
