@@ -1,0 +1,4886 @@
+{
+    "ATSCT_ANALOG": [
+		              {
+                        "name": "2",
+                        "frequency": "55250000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "61250000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "67250000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "77250000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "83250000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "175250000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "181250000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "187250000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "193250000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "199250000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "205250000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "211250000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "471250000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "477250000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "483250000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "489250000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "495250000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "501250000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "507250000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "513250000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "519250000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "525250000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "531250000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "537250000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "543250000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "549250000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "555250000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "561250000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "567250000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "573250000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "579250000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "585250000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "591250000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "597250000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "603250000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "609250000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "615250000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "621250000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "627250000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "633250000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "639250000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "645250000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "651250000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "657250000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "663250000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "669250000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "675250000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "681250000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "687250000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "693250000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "699250000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "705250000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "711250000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "717250000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "723250000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "729250000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "735250000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "741250000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "747250000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "753250000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "759250000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "765250000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "771250000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "777250000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "783250000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "789250000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "795250000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "801250000"
+                      }
+                    ],
+    "ATSCT_DIGITAL":[
+		              {
+                        "name": "2",
+                        "frequency": "57000000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "63000000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "69000000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "79000000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "85000000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "177000000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "183000000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "189000000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "195000000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "201000000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "207000000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "213000000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "473000000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "479000000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "485000000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "491000000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "497000000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "503000000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "509000000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "515000000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "521000000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "527000000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "533000000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "539000000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "545000000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "551000000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "557000000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "563000000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "569000000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "575000000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "581000000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "587000000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "593000000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "599000000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "605000000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "611000000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "617000000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "623000000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "629000000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "635000000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "641000000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "647000000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "653000000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "659000000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "665000000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "671000000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "677000000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "683000000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "689000000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "695000000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "701000000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "707000000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "713000000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "719000000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "725000000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "731000000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "737000000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "743000000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "749000000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "755000000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "761000000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "767000000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "773000000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "779000000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "785000000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "791000000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "797000000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "803000000"
+                      }
+                    ],
+	"ATSCCSTD_ANALOG":[
+	                  {
+                        "name": "1",
+                        "frequency": "73250000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "55250000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "61250000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "67250000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "77250000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "83250000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "175250000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "181250000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "187250000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "193250000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "199250000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "205250000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "211250000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "121250000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "127250000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "133250000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "139250000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "145250000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "151250000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "157250000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "163250000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "169250000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "217250000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "223250000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "229250000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "235250000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "241250000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "247250000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "253250000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "259250000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "265250000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "271250000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "277250000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "283250000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "289250000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "295250000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "301250000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "307250000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "313250000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "319250000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "325250000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "331250000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "337250000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "343250000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "349250000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "355250000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "361250000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "367250000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "373250000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "379250000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "385250000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "391250000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "397250000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "403250000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "409250000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "415250000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "421250000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "427250000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "433250000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "439250000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "445250000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "451250000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "457250000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "463250000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "469250000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "475250000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "481250000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "487250000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "493250000"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "499250000"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "505250000"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "511250000"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "517250000"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "523250000"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "529250000"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "535250000"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "541250000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "547250000"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "553250000"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "559250000"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "565250000"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "571250000"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "577250000"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "583250000"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "589250000"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "595250000"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "601250000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "607250000"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "613250000"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "619250000"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "625250000"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "631250000"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "637250000"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "643250000"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "91250000"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "97250000"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "103250000"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "109250000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "115250000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "649250000"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "655250000"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "661250000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "667250000"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "673250000"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "679250000"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "685250000"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "691250000"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "697250000"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "703250000"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "709250000"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "715250000"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "721250000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "727250000"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "733250000"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "739250000"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "745250000"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "751250000"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "757250000"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "763250000"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "769250000"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "775250000"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "781250000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "787250000"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "793250000"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "799250000"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "805250000"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "811250000"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "817250000"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "823250000"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "829250000"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "835250000"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "841250000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "847250000"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "853250000"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "859250000"
+                      }
+                    ],
+    "ATSCCSTD_DIGITAL":[
+                      {
+                        "name": "1",
+                        "frequency": "75000000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "57000000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "63000000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "69000000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "79000000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "85000000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "177000000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "183000000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "189000000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "195000000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "201000000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "207000000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "213000000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "123000000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "129000000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "135000000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "141000000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "147000000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "153000000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "159000000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "165000000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "171000000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "219000000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "225000000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "231000000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "237000000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "243000000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "249000000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "255000000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "261000000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "267000000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "273000000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "279000000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "285000000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "291000000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "297000000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "303000000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "309000000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "315000000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "321000000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "327000000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "333000000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "339000000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "345000000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "351000000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "357000000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "363000000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "369000000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "375000000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "381000000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "387000000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "393000000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "399000000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "405000000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "411000000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "417000000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "423000000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "429000000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "435000000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "441000000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "447000000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "453000000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "459000000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "465000000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "471000000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "477000000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "483000000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "489000000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "495000000"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "501000000"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "507000000"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "513000000"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "519000000"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "525000000"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "531000000"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "537000000"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "543000000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "549000000"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "555000000"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "561000000"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "567000000"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "573000000"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "579000000"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "585000000"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "591000000"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "597000000"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "603000000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "609000000"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "615000000"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "621000000"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "627000000"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "633000000"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "639000000"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "645000000"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "93000000"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "99000000"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "105000000"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "111000000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "117000000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "651000000"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "657000000"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "663000000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "669000000"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "675000000"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "681000000"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "687000000"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "693000000"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "699000000"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "705000000"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "711000000"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "717000000"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "723000000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "729000000"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "735000000"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "741000000"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "747000000"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "753000000"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "759000000"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "765000000"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "771000000"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "777000000"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "783000000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "789000000"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "795000000"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "801000000"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "807000000"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "813000000"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "819000000"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "825000000"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "831000000"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "837000000"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "843000000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "849000000"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "855000000"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "861000000"
+                      }
+                    ],
+	"ATSCCLRC_ANALOG": [
+                      {
+                        "name": "1",
+                        "frequency": "73250000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "55250000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "61250000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "67250000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "79250000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "85250000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "175250000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "181250000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "187250000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "193250000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "199250000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "205250000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "211250000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "121250000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "127250000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "133250000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "139250000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "145250000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "151250000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "157250000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "163250000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "169250000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "217250000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "223250000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "229250000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "235250000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "241250000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "247250000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "253250000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "259250000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "265250000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "271250000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "277250000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "283250000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "289250000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "295250000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "301250000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "307250000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "313250000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "319250000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "325250000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "331250000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "337250000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "343250000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "349250000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "355250000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "361250000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "367250000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "373250000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "379250000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "385250000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "391250000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "397250000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "403250000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "409250000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "415250000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "421250000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "427250000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "433250000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "439250000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "445250000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "451250000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "457250000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "463250000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "469250000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "475250000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "481250000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "487250000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "493250000"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "499250000"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "505250000"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "511250000"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "517250000"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "523250000"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "529250000"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "535250000"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "541250000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "547250000"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "553250000"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "559250000"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "565250000"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "571250000"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "577250000"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "583250000"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "589250000"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "595250000"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "601250000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "607250000"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "613250000"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "619250000"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "625250000"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "631250000"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "637250000"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "643250000"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "91250000"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "97250000"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "103250000"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "109250000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "115250000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "649250000"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "655250000"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "661250000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "667250000"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "673250000"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "679250000"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "685250000"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "691250000"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "697250000"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "703250000"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "709250000"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "715250000"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "721250000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "727250000"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "733250000"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "739250000"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "745250000"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "751250000"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "757250000"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "763250000"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "769250000"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "775250000"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "781250000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "787250000"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "793250000"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "799250000"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "805250000"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "811250000"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "817250000"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "823250000"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "829250000"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "835250000"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "841250000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "847250000"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "853250000"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "859250000"
+                      }
+                    ],
+    "ATSCCLRC_DIGITAL":[
+                      {
+                        "name": "1",
+                        "frequency": "75000000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "57012500"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "63012500"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "69012500"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "81012500"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "87012500"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "177012500"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "183012500"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "189012500"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "195012500"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "201012500"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "207012500"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "213012500"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "123012500"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "129012500"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "135012500"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "141012500"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "147012500"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "153012500"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "159012500"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "165012500"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "171012500"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "219012500"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "225012500"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "231012500"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "237012500"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "243012500"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "249012500"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "255012500"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "261012500"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "267012500"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "273012500"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "279012500"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "285012500"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "291012500"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "297012500"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "303012500"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "309012500"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "315012500"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "321012500"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "327012500"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "333025000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "339012500"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "345012500"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "351012500"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "357012500"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "363012500"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "369012500"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "375012500"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "381012500"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "387012500"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "393012500"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "399012500"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "405012500"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "411012500"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "417012500"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "423012500"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "429012500"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "435012500"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "441012500"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "447012500"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "453012500"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "459012500"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "465012500"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "471012500"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "477012500"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "483012500"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "489012500"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "495012500"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "501012500"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "507012500"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "513012500"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "519012500"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "525012500"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "531012500"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "537012500"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "543012500"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "549012500"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "555012500"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "561012500"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "567012500"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "573012500"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "579012500"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "585012500"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "591012500"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "597012500"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "603012500"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "609012500"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "615012500"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "621012500"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "627012500"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "633012500"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "639012500"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "645012500"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "93012500"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "99012500"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "105012500"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "111025000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "117025000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "651012500"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "657012500"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "663012500"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "669012500"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "675012500"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "681012500"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "687012500"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "693012500"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "699012500"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "705012500"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "711012500"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "717012500"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "723012500"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "729012500"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "735012500"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "741012500"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "747012500"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "753012500"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "759012500"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "765012500"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "771012500"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "777012500"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "783012500"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "789012500"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "795012500"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "801012500"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "807012500"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "813012500"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "819012500"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "825012500"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "831012500"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "837012500"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "843012500"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "849012500"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "855012500"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "861012500"
+                      }
+                    ],
+    "ATSCCHRC_ANALOG": [
+	                  {
+                        "name": "1",
+                        "frequency": "72000000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "54000000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "60000000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "66000000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "78000000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "84000000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "174000000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "180000000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "186000000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "192000000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "198000000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "204000000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "210000000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "120000000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "126000000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "132000000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "138000000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "144000000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "150000000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "156000000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "162000000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "168000000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "216000000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "222000000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "228000000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "234000000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "240000000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "246000000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "252000000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "258000000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "264000000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "270000000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "276000000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "282000000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "288000000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "294000000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "300000000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "306000000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "312000000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "318000000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "324000000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "330000000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "336000000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "342000000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "348000000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "354000000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "360000000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "366000000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "372000000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "378000000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "384000000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "390000000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "396000000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "402000000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "408000000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "414000000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "420000000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "426000000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "432000000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "438000000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "444000000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "450000000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "456000000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "462000000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "468000000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "474000000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "480000000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "486000000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "492000000"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "498000000"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "504000000"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "510000000"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "516000000"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "522000000"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "528000000"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "534000000"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "540000000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "546000000"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "552000000"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "558000000"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "564000000"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "570000000"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "576000000"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "582000000"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "588000000"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "594000000"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "600000000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "606000000"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "612000000"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "618000000"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "624000000"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "630000000"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "636000000"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "642000000"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "90000000"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "96000000"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "102000000"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "108000000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "114000000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "648000000"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "654000000"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "660000000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "666000000"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "672000000"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "678000000"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "684000000"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "690000000"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "696000000"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "702000000"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "708000000"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "714000000"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "720000000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "726000000"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "732000000"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "738000000"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "744000000"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "750000000"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "756000000"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "762000000"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "768000000"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "774000000"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "780000000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "786000000"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "792000000"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "798000000"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "804000000"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "810000000"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "816000000"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "822000000"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "828000000"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "834000000"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "840000000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "846000000"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "852000000"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "858000000"
+                      }
+                    ],
+    "ATSCCHRC_DIGITAL":[
+                      {
+                        "name": "1",
+                        "frequency": "73750000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "55752700"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "61753000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "67753300"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "79753900"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "85754200"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "175758700"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "181759000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "187759300"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "193759600"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "199759900"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "205760200"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "211760500"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "121756000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "127756300"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "133756600"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "139756900"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "145757200"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "151757500"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "157757800"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "163758100"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "169758400"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "217760800"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "223761100"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "229761400"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "235761700"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "241762000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "247762300"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "253762600"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "259762900"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "265763200"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "271763500"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "277763800"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "283764100"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "289764400"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "295764700"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "301765000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "307765300"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "313765600"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "319765900"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "325766200"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "331766500"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "337766800"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "343767100"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "349767400"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "355767700"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "361768000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "367768300"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "373768600"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "379768900"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "385769200"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "391769500"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "397769800"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "403770100"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "409770400"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "415770700"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "421771000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "427771300"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "433771600"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "439771900"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "445772200"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "451772500"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "457772800"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "463773100"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "469773400"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "475773700"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "481774000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "487774300"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "493774600"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "499774900"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "505775200"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "511775500"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "517775800"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "523776100"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "529776400"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "535776700"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "541777000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "547777300"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "553777600"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "559777900"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "565778200"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "571778500"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "577778800"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "583779100"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "589779400"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "595779700"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "601780000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "607780300"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "613780600"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "619780900"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "625781200"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "631781500"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "637781800"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "643782100"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "91754500"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "97754800"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "103755100"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "109755400"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "115755700"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "649782400"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "655782700"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "661783000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "667783300"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "673783600"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "679783900"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "685784200"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "691784500"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "697784800"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "703785100"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "709785400"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "715785700"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "721786000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "727786300"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "733786600"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "739786900"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "745787200"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "751787500"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "757787800"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "763788100"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "769788400"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "775788700"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "781789000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "787789300"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "793789600"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "799789900"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "805790200"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "811790500"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "817790800"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "823791100"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "829791400"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "835791700"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "841792000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "847792300"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "853792600"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "859792900"
+                      }
+                    ],
+    "ATSCCAUTO_ANALOG": [
+                      {
+                        "name": "1",
+                        "frequency": "73250000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "55250000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "61250000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "67250000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "79250000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "85250000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "175250000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "181250000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "187250000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "193250000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "199250000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "205250000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "211250000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "121250000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "127250000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "133250000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "139250000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "145250000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "151250000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "157250000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "163250000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "169250000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "217250000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "223250000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "229250000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "235250000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "241250000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "247250000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "253250000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "259250000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "265250000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "271250000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "277250000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "283250000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "289250000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "295250000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "301250000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "307250000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "313250000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "319250000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "325250000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "331250000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "337250000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "343250000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "349250000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "355250000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "361250000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "367250000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "373250000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "379250000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "385250000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "391250000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "397250000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "403250000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "409250000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "415250000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "421250000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "427250000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "433250000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "439250000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "445250000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "451250000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "457250000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "463250000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "469250000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "475250000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "481250000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "487250000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "493250000"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "499250000"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "505250000"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "511250000"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "517250000"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "523250000"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "529250000"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "535250000"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "541250000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "547250000"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "553250000"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "559250000"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "565250000"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "571250000"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "577250000"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "583250000"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "589250000"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "595250000"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "601250000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "607250000"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "613250000"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "619250000"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "625250000"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "631250000"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "637250000"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "643250000"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "91250000"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "97250000"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "103250000"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "109250000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "115250000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "649250000"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "655250000"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "661250000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "667250000"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "673250000"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "679250000"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "685250000"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "691250000"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "697250000"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "703250000"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "709250000"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "715250000"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "721250000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "727250000"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "733250000"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "739250000"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "745250000"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "751250000"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "757250000"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "763250000"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "769250000"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "775250000"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "781250000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "787250000"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "793250000"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "799250000"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "805250000"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "811250000"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "817250000"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "823250000"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "829250000"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "835250000"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "841250000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "847250000"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "853250000"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "859250000"
+                      }
+                    ],
+    "ATSCCAUTO_DIGITAL":[
+                      {
+                        "name": "1",
+                        "frequency": "75000000"
+                      },
+                      {
+                        "name": "2",
+                        "frequency": "57000000"
+                      },
+                      {
+                        "name": "3",
+                        "frequency": "63000000"
+                      },
+                      {
+                        "name": "4",
+                        "frequency": "69000000"
+                      },
+					  {
+                        "name": "5",
+                        "frequency": "81000000"
+                      },
+					  {
+                        "name": "6",
+                        "frequency": "87000000"
+                      },
+					  {
+                        "name": "7",
+                        "frequency": "177000000"
+                      },
+					  {
+                        "name": "8",
+                        "frequency": "183000000"
+                      },
+					  {
+                        "name": "9",
+                        "frequency": "189000000"
+                      },
+					  {
+                        "name": "10",
+                        "frequency": "195000000"
+                      },
+					  {
+                        "name": "11",
+                        "frequency": "201000000"
+                      },
+                      {
+                        "name": "12",
+                        "frequency": "207000000"
+                      },
+					  {
+                        "name": "13",
+                        "frequency": "213000000"
+                      },
+					  {
+                        "name": "14",
+                        "frequency": "123000000"
+                      },
+					  {
+                        "name": "15",
+                        "frequency": "129000000"
+                      },
+					  {
+                        "name": "16",
+                        "frequency": "135000000"
+                      },
+					  {
+                        "name": "17",
+                        "frequency": "141000000"
+                      },
+					  {
+                        "name": "18",
+                        "frequency": "147000000"
+                      },
+					  {
+                        "name": "19",
+                        "frequency": "153000000"
+                      },
+					  {
+                        "name": "20",
+                        "frequency": "159000000"
+                      },
+					  {
+                        "name": "21",
+                        "frequency": "165000000"
+                      },
+					  {
+                        "name": "22",
+                        "frequency": "171000000"
+                      },
+					  {
+                        "name": "23",
+                        "frequency": "219000000"
+                      },
+					  {
+                        "name": "24",
+                        "frequency": "225000000"
+                      },
+					  {
+                        "name": "25",
+                        "frequency": "231000000"
+                      },
+					  {
+                        "name": "26",
+                        "frequency": "237000000"
+                      },
+					  {
+                        "name": "27",
+                        "frequency": "243000000"
+                      },
+					  {
+                        "name": "28",
+                        "frequency": "249000000"
+                      },
+					  {
+                        "name": "29",
+                        "frequency": "255000000"
+                      },
+					  {
+                        "name": "30",
+                        "frequency": "261000000"
+                      },
+					  {
+                        "name": "31",
+                        "frequency": "267000000"
+                      },
+					  {
+                        "name": "32",
+                        "frequency": "273000000"
+                      },
+					  {
+                        "name": "33",
+                        "frequency": "279000000"
+                      },
+					  {
+                        "name": "34",
+                        "frequency": "285000000"
+                      },
+					  {
+                        "name": "35",
+                        "frequency": "291000000"
+                      },
+					  {
+                        "name": "36",
+                        "frequency": "297000000"
+                      },
+					  {
+                        "name": "37",
+                        "frequency": "303000000"
+                      },
+					  {
+                        "name": "38",
+                        "frequency": "309000000"
+                      },
+					  {
+                        "name": "39",
+                        "frequency": "315000000"
+                      },
+					  {
+                        "name": "40",
+                        "frequency": "321000000"
+                      },
+					  {
+                        "name": "41",
+                        "frequency": "327000000"
+                      },
+					  {
+                        "name": "42",
+                        "frequency": "333000000"
+                      },
+					  {
+                        "name": "43",
+                        "frequency": "339000000"
+                      },
+					  {
+                        "name": "44",
+                        "frequency": "345000000"
+                      },
+					  {
+                        "name": "45",
+                        "frequency": "351000000"
+                      },
+					  {
+                        "name": "46",
+                        "frequency": "357000000"
+                      },
+					  {
+                        "name": "47",
+                        "frequency": "363000000"
+                      },
+					  {
+                        "name": "48",
+                        "frequency": "369000000"
+                      },
+					  {
+                        "name": "49",
+                        "frequency": "375000000"
+                      },
+					  {
+                        "name": "50",
+                        "frequency": "381000000"
+                      },
+					  {
+                        "name": "51",
+                        "frequency": "387000000"
+                      },
+					  {
+                        "name": "52",
+                        "frequency": "393000000"
+                      },
+					  {
+                        "name": "53",
+                        "frequency": "399000000"
+                      },
+					  {
+                        "name": "54",
+                        "frequency": "405000000"
+                      },
+					  {
+                        "name": "55",
+                        "frequency": "411000000"
+                      },
+					  {
+                        "name": "56",
+                        "frequency": "417000000"
+                      },
+					  {
+                        "name": "57",
+                        "frequency": "423000000"
+                      },
+					  {
+                        "name": "58",
+                        "frequency": "429000000"
+                      },
+					  {
+                        "name": "59",
+                        "frequency": "435000000"
+                      },
+					  {
+                        "name": "60",
+                        "frequency": "441000000"
+                      },
+					  {
+                        "name": "61",
+                        "frequency": "447000000"
+                      },
+					  {
+                        "name": "62",
+                        "frequency": "453000000"
+                      },
+					  {
+                        "name": "63",
+                        "frequency": "459000000"
+                      },
+					  {
+                        "name": "64",
+                        "frequency": "465000000"
+                      },
+					  {
+                        "name": "65",
+                        "frequency": "471000000"
+                      },
+					  {
+                        "name": "66",
+                        "frequency": "477000000"
+                      },
+					  {
+                        "name": "67",
+                        "frequency": "483000000"
+                      },
+					  {
+                        "name": "68",
+                        "frequency": "489000000"
+                      },
+					  {
+                        "name": "69",
+                        "frequency": "495000000"
+                      },
+                      {
+                        "name": "70",
+                        "frequency": "501000000"
+                      },
+                      {
+                        "name": "71",
+                        "frequency": "507000000"
+                      },
+                      {
+                        "name": "72",
+                        "frequency": "513000000"
+                      },
+                      {
+                        "name": "73",
+                        "frequency": "519000000"
+                      },
+					  {
+                        "name": "74",
+                        "frequency": "525000000"
+                      },
+					  {
+                        "name": "75",
+                        "frequency": "531000000"
+                      },
+					  {
+                        "name": "76",
+                        "frequency": "537000000"
+                      },
+					  {
+                        "name": "77",
+                        "frequency": "543000000"
+                      },
+					  {
+                        "name": "78",
+                        "frequency": "549000000"
+                      },
+					  {
+                        "name": "79",
+                        "frequency": "555000000"
+                      },
+					  {
+                        "name": "80",
+                        "frequency": "561000000"
+                      },
+                      {
+                        "name": "81",
+                        "frequency": "567000000"
+                      },
+					  {
+                        "name": "82",
+                        "frequency": "573000000"
+                      },
+					  {
+                        "name": "83",
+                        "frequency": "579000000"
+                      },
+					  {
+                        "name": "84",
+                        "frequency": "585000000"
+                      },
+					  {
+                        "name": "85",
+                        "frequency": "591000000"
+                      },
+					  {
+                        "name": "86",
+                        "frequency": "597000000"
+                      },
+					  {
+                        "name": "87",
+                        "frequency": "603000000"
+                      },
+					  {
+                        "name": "88",
+                        "frequency": "609000000"
+                      },
+					  {
+                        "name": "89",
+                        "frequency": "615000000"
+                      },
+					  {
+                        "name": "90",
+                        "frequency": "621000000"
+                      },
+					  {
+                        "name": "91",
+                        "frequency": "627000000"
+                      },
+					  {
+                        "name": "92",
+                        "frequency": "633000000"
+                      },
+					  {
+                        "name": "93",
+                        "frequency": "639000000"
+                      },
+					  {
+                        "name": "94",
+                        "frequency": "645000000"
+                      },
+					  {
+                        "name": "95",
+                        "frequency": "93000000"
+                      },
+					  {
+                        "name": "96",
+                        "frequency": "99000000"
+                      },
+					  {
+                        "name": "97",
+                        "frequency": "105000000"
+                      },
+					  {
+                        "name": "98",
+                        "frequency": "111000000"
+                      },
+					  {
+                        "name": "99",
+                        "frequency": "117000000"
+                      },
+					  {
+                        "name": "100",
+                        "frequency": "651000000"
+                      },
+					  {
+                        "name": "101",
+                        "frequency": "657000000"
+                      },
+					  {
+                        "name": "102",
+                        "frequency": "663000000"
+                      },
+					  {
+                        "name": "103",
+                        "frequency": "669000000"
+                      },
+					  {
+                        "name": "104",
+                        "frequency": "675000000"
+                      },
+					  {
+                        "name": "105",
+                        "frequency": "681000000"
+                      },
+					  {
+                        "name": "106",
+                        "frequency": "687000000"
+                      },
+					  {
+                        "name": "107",
+                        "frequency": "693000000"
+                      },
+					  {
+                        "name": "108",
+                        "frequency": "699000000"
+                      },
+					  {
+                        "name": "109",
+                        "frequency": "705000000"
+                      },
+					  {
+                        "name": "110",
+                        "frequency": "711000000"
+                      },
+					  {
+                        "name": "111",
+                        "frequency": "717000000"
+                      },
+					  {
+                        "name": "112",
+                        "frequency": "723000000"
+                      },
+					  {
+                        "name": "113",
+                        "frequency": "729000000"
+                      },
+					  {
+                        "name": "114",
+                        "frequency": "735000000"
+                      },
+					  {
+                        "name": "115",
+                        "frequency": "741000000"
+                      },
+					  {
+                        "name": "116",
+                        "frequency": "747000000"
+                      },
+					  {
+                        "name": "117",
+                        "frequency": "753000000"
+                      },
+					  {
+                        "name": "118",
+                        "frequency": "759000000"
+                      },
+					  {
+                        "name": "119",
+                        "frequency": "765000000"
+                      },
+					  {
+                        "name": "120",
+                        "frequency": "771000000"
+                      },
+					  {
+                        "name": "121",
+                        "frequency": "777000000"
+                      },
+					  {
+                        "name": "122",
+                        "frequency": "783000000"
+                      },
+					  {
+                        "name": "123",
+                        "frequency": "789000000"
+                      },
+					  {
+                        "name": "124",
+                        "frequency": "795000000"
+                      },
+					  {
+                        "name": "125",
+                        "frequency": "801000000"
+                      },
+					  {
+                        "name": "126",
+                        "frequency": "807000000"
+                      },
+					  {
+                        "name": "127",
+                        "frequency": "813000000"
+                      },
+					  {
+                        "name": "128",
+                        "frequency": "819000000"
+                      },
+					  {
+                        "name": "129",
+                        "frequency": "825000000"
+                      },
+					  {
+                        "name": "130",
+                        "frequency": "831000000"
+                      },
+					  {
+                        "name": "131",
+                        "frequency": "837000000"
+                      },
+					  {
+                        "name": "132",
+                        "frequency": "843000000"
+                      },
+					  {
+                        "name": "133",
+                        "frequency": "849000000"
+                      },
+					  {
+                        "name": "134",
+                        "frequency": "855000000"
+                      },
+					  {
+                        "name": "135",
+                        "frequency": "861000000"
+                      }
+                    ]
+}

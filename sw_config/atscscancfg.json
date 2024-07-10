@@ -1,0 +1,16 @@
+{
+    "countrylist": [
+        {
+            "countrycode": "def",
+            "atscfrequencylist": "atscfrelist_default.json"
+        },
+        {
+            "countrycode": "arg",
+            "atscfrequencylist": "atscfrelist_default.json"
+        },
+		{
+            "countrycode": "usa",
+            "atscfrequencylist": "atscfrelist_default.json"
+        }
+    ]
+}
