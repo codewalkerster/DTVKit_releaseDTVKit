@@ -2,8 +2,8 @@ android-rpcservice
 commit 079f893156328e7cfa855e717d6c02544462a292
 Date:   Thu Jun 27 17:06:44 2024 +0800
 DVBCore
-commit 021966bdaefebfed8293efeac35193d5fdba2b91
-Date:   Mon Jul 15 07:11:24 2024 +0000
+commit b8f4afcbf56415fbd8cef56ac6ec6669fade3708
+Date:   Tue Jul 16 19:00:23 2024 -0700
 dtvkit-amlogic
 commit 1957dfb0bccfb6bf6ec06cd13bf0adc1343c8193
 Date:   Fri Jul 5 10:28:34 2024 +0000
@@ -11,8 +11,8 @@ CI-Plus
 commit ebd046b941f03ce739dda8657855fcb475246524
 Date:   Wed Jul 10 20:12:06 2024 -0700
 CERT
-commit cd4857d5da5c307689d2040f7078d23d7ea68ad6
-Date:   Thu Jul 11 18:36:30 2024 -0700
+commit 264ac2a20b1e775c26fae80d07782783cef1539d
+Date:   Fri Jul 12 09:22:18 2024 +0000
 DSMCC
 commit 04f53754086520430bfee8e910827016464b54d7
 Date:   Thu Jul 4 15:54:30 2024 +0800
@@ -20,8 +20,8 @@ MHEG5
 commit 7b22085658562665b0afeb0bba6ed1bbacc4f5b9
 Date:   Fri Mar 8 14:31:05 2024 +0800
 ISDB
-commit 14c7205f740ad7fa3c82e910329e01ada4a9ba87
-Date:   Tue Jul 9 08:04:46 2024 +0000
+commit 5b47a43ed3f0b2082296ba04924617816368b189
+Date:   Tue Jul 16 10:07:07 2024 +0000
 ATSC
 commit 03ca48b03d944bafb31e80127b17a6a907fc6fe0
 Date:   Thu Jul 4 15:44:08 2024 +0800
