@@ -11,8 +11,8 @@ CI-Plus
 commit 9c3a72946059854e5a67bb1b52cb5aa615b3f067
 Date:   Thu Jul 25 18:13:52 2024 +0800
 CERT
-commit 66e6b4dc3c26efadf13fa8aa75267fc9c494ff24
-Date:   Fri Jul 26 01:44:10 2024 -0700
+commit a9b5692ce8d82ce0bb766b6f5f5c614acb29af99
+Date:   Fri Jul 26 17:15:11 2024 +0800
 DSMCC
 commit 04f53754086520430bfee8e910827016464b54d7
 Date:   Thu Jul 4 15:54:30 2024 +0800
@@ -23,8 +23,8 @@ ISDB
 commit d5d40137a486c49d8683e35511890d6c27a4dbe2
 Date:   Thu Jul 25 23:04:25 2024 -0700
 ATSC
-commit fa57ebfedeaef235fc089ba438c4aec4d0934e8b
-Date:   Fri Jul 26 15:39:09 2024 +0800
+commit f4d960ed92394535269678167fd8a0d7c25d1226
+Date:   Sun Jul 28 23:32:06 2024 -0700
 ATV
 commit 62dfc6659825ed2938edb0c23bc2e377fd789fa5
 Date:   Fri Jul 5 10:06:31 2024 +0000
