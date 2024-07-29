@@ -100,6 +100,13 @@ include $(CLEAR_VARS)
 include $(BUILD_PREBUILT)
 endif
 
+ifeq ($(shell test $(PLATFORM_SDK_VERSION) -ge 35&& echo OK),OK)
+    $(warning "Build on Android V+, DTVKIT AIDL ENABLE")
+    DTVKIT_AIDL_ENABLE := true
+else
+    $(warning "Build on Android U-, DTVKIT HIDL ENABLE")
+    DTVKIT_AIDL_ENABLE := false
+endif
 include $(CLEAR_VARS)
 
 LOCAL_MODULE_CLASS := EXECUTABLES
@@ -133,7 +140,6 @@ LOCAL_SHARED_LIBRARIES := \
     libsqlite \
     libssl \
     libutils \
-    vendor.amlogic.hardware.dtvkitserver@1.0 \
     libaml_mp_sdk.vendor \
     libutilscallstack \
     libteec \
@@ -144,12 +150,23 @@ LOCAL_SHARED_LIBRARIES := \
     libfmq.vendor \
     libmeson_display_adapter_remote \
     libmeson_display_service \
+    libbinder_ndk \
+    libhardware \
     libdtvkit_platform
+
+ifeq ($(DTVKIT_AIDL_ENABLE), true)
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver-V1-ndk
+LOCAL_VINTF_FRAGMENTS := vendor.amlogic.hardware.dtvkitserver_aidl.xml
+else
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver@1.0
+LOCAL_VINTF_FRAGMENTS := vendor.amlogic.hardware.dtvkitserver@1.0.xml
+endif
 
 LOCAL_MODULE := dtvkitserver
 LOCAL_SRC_FILES := dtvkitserver
 LOCAL_INIT_RC := dtvkitserver.rc
-LOCAL_VINTF_FRAGMENTS := vendor.amlogic.hardware.dtvkitserver@1.0.xml
 LOCAL_MODULE_RELATIVE_PATH := hw
 LOCAL_MULTILIB := 32
 include $(BUILD_PREBUILT)
@@ -186,7 +203,6 @@ LOCAL_SHARED_LIBRARIES := \
     libsqlite \
     libssl \
     libutils \
-    vendor.amlogic.hardware.dtvkitserver@1.0 \
     libaml_mp_sdk.vendor \
     libutilscallstack \
     libteec \
@@ -197,7 +213,17 @@ LOCAL_SHARED_LIBRARIES := \
     vendor.amlogic.hardware.systemcontrol@1.0 \
     vendor.amlogic.hardware.systemcontrol@1.1 \
     libfmq.vendor \
+    libbinder_ndk \
+    libhardware \
     libdtvkit_platform
+
+ifeq ($(DTVKIT_AIDL_ENABLE), true)
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver-V1-ndk
+else
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver@1.0
+endif
 LOCAL_MODULE := isdb_server
 LOCAL_SRC_FILES := isdb_server
 LOCAL_LICENSE_KINDS := legacy_notice
@@ -238,7 +264,6 @@ LOCAL_SHARED_LIBRARIES := \
     libsqlite \
     libssl \
     libutils \
-    vendor.amlogic.hardware.dtvkitserver@1.0 \
     libaml_mp_sdk.vendor \
     libutilscallstack \
     libteec \
@@ -249,7 +274,17 @@ LOCAL_SHARED_LIBRARIES := \
     vendor.amlogic.hardware.systemcontrol@1.0 \
     vendor.amlogic.hardware.systemcontrol@1.1 \
     libfmq.vendor \
+    libbinder_ndk \
+    libhardware \
     libdtvkit_platform
+
+ifeq ($(DTVKIT_AIDL_ENABLE), true)
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver-V1-ndk
+else
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver@1.0
+endif
 LOCAL_MODULE := dvb_server
 LOCAL_SRC_FILES := dvb_server
 LOCAL_LICENSE_KINDS := legacy_notice
@@ -285,7 +320,6 @@ LOCAL_SHARED_LIBRARIES := \
     libsqlite \
     libssl \
     libutils \
-    vendor.amlogic.hardware.dtvkitserver@1.0 \
     libaml_mp_sdk.vendor \
     libutilscallstack \
     libteec \
@@ -293,7 +327,17 @@ LOCAL_SHARED_LIBRARIES := \
     vendor.amlogic.hardware.systemcontrol@1.0 \
     vendor.amlogic.hardware.systemcontrol@1.1 \
     libfmq.vendor \
+    libbinder_ndk \
+    libhardware \
     libdtvkit_platform
+
+ifeq ($(DTVKIT_AIDL_ENABLE), true)
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver-V1-ndk
+else
+LOCAL_SHARED_LIBRARIES += \
+    vendor.amlogic.hardware.dtvkitserver@1.0
+endif
 LOCAL_MODULE := atsc_server
 LOCAL_SRC_FILES := atsc_server
 LOCAL_LICENSE_KINDS := legacy_notice
