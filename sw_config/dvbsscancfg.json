@@ -194,6 +194,18 @@
             ]
         },
         {
+            "countrycode": "che",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1000",
+            "lastunallocatedlcn": "9999",
+            "operatorlist": [
+                {
+                    "name": "Kabelio",
+                    "code": "0x0b00"
+                }
+            ]
+        },
+        {
             "description": "NORDIG-DENMARK",
             "countrycode": "dnk",
             "lcntype": "share",
