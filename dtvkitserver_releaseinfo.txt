@@ -1,6 +1,6 @@
 android-rpcservice
-commit c64aa17bb6985c3b626ca715da921a0abb13c09e
-Date:   Fri Jul 12 14:01:44 2024 +0800
+commit 1bf15bf7453b83644929a72b107380a8a66968e3
+Date:   Wed Jul 24 11:28:16 2024 +0000
 DVBCore
 commit 522c05b8eacdb42b170d08ebc697875b6aeca8d6
 Date:   Wed Jul 31 00:56:19 2024 -0700
@@ -11,8 +11,8 @@ CI-Plus
 commit 9c3a72946059854e5a67bb1b52cb5aa615b3f067
 Date:   Thu Jul 25 18:13:52 2024 +0800
 CERT
-commit 4b056a861e4e1e49991c7422a17417af03a59614
-Date:   Wed Jul 31 03:56:56 2024 -0700
+commit 53380071a1cd01af9d315a5828d50d2d12c6675f
+Date:   Thu Aug 1 11:19:42 2024 +0800
 DSMCC
 commit 04f53754086520430bfee8e910827016464b54d7
 Date:   Thu Jul 4 15:54:30 2024 +0800
