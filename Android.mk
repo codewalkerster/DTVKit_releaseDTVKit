@@ -17,6 +17,7 @@ $(warning "prebuilt libdtvkitserver.so")
 include $(CLEAR_VARS)
     LOCAL_MODULE := libdtvkitserver
     LOCAL_SRC_FILES := libdtvkitserver.so
+    LOCAL_MULTILIB := 32
     LOCAL_MODULE_CLASS := SHARED_LIBRARIES
     LOCAL_MODULE_SUFFIX := .so
     LOCAL_VENDOR_MODULE := true
@@ -31,6 +32,7 @@ $(warning "prebuilt libdvbserver.so")
 include $(CLEAR_VARS)
     LOCAL_MODULE := libdvbserver
     LOCAL_SRC_FILES := libdvbserver.so
+    LOCAL_MULTILIB := 32
     LOCAL_MODULE_CLASS := SHARED_LIBRARIES
     LOCAL_MODULE_SUFFIX := .so
     LOCAL_VENDOR_MODULE := true
@@ -55,6 +57,7 @@ $(warning "prebuilt libisdbserver.so")
 include $(CLEAR_VARS)
     LOCAL_MODULE := libisdbserver
     LOCAL_SRC_FILES := libisdbserver.so
+    LOCAL_MULTILIB := 32
     LOCAL_MODULE_CLASS := SHARED_LIBRARIES
     LOCAL_MODULE_SUFFIX := .so
     LOCAL_VENDOR_MODULE := true
@@ -79,6 +82,7 @@ $(warning "prebuilt libatscserver.so")
 include $(CLEAR_VARS)
     LOCAL_MODULE := libatscserver
     LOCAL_SRC_FILES := libatscserver.so
+    LOCAL_MULTILIB := 32
     LOCAL_MODULE_CLASS := SHARED_LIBRARIES
     LOCAL_MODULE_SUFFIX := .so
     LOCAL_VENDOR_MODULE := true
