@@ -11,20 +11,16 @@
         "secondarylang: this country second language,default is eng",
         "netidmax=0xffff;orignetidmax=0xffff;usrdefonid=0xffff",
         "countrycode: define in https://countrycode.org/",
+        "schedulememsizelimit:epg support max memory, The uint is MB, Zero is unlimited",
+        "scheduledaylimit: Maximum number of days supported, The unit is  day, Zero is unlimited",
+        "data_service(servicelistfilter): filter out data type",
         "the end"
     ],
     "cfgversion": 1,
     "common":
     {
-        "subtitle": 7,
-        "audio": 0,
-        "time": 0,
-        "daylight": 0,
-        "mhegEnable": 1,
-        "channellock": 0,
-        "netidmax": "0xffff",
-        "orignetidmax": "0xffff",
-        "usrdefonid": "0xffff"
+        "schedulememsizelimit": 0,
+        "scheduledaylimit": 0
     },
     "countrydefaultvalue":
     {
@@ -1489,9 +1485,11 @@
             "secondarylang": "eng"
         }
     ],
-    "servicelistexample":
+    "commonexample":
     {
-        "servicefilter":
+        "schedulememsizelimi":0,
+        "scheduledaylimit":0,
+        "servicelistfilter": 
         {
             "data_service":["ota"]
         }
