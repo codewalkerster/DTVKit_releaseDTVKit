@@ -9,11 +9,11 @@
             "alwayson: no care ui setting, always on",
         "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:save duplicate service 1:remove duplicate service",
         "sortservicepriority: sort priority sort type: servicename,InTs,frequency,serviceid,servicetype,SignalLevel,Scramble,Resolution",
-        "tvfirstunallocatedlcn: TV service first unallocated lcn",
-        "radiofirstunallocatedlcn: radio service first unallocated lcn",
-        "otherfirstunallocatedlcn: other service first unallocated lcn",
-        "radiolcnoffset:  radio lcnoff set",
-        " FALSE/TRUE, default is FALSE",
+        "tvfirstunallocatedlcn(lcnoff): TV service first unallocated lcn",
+        "radiofirstunallocatedlcn(lcnoff): radio service first unallocated lcn",
+        "otherfirstunallocatedlcn(lcnoff): other service first unallocated lcn",
+        "radiolcnoffset(lcnon): radio service lcn offset",
+        "otherlcnoffset(lcnon): other service lcn offset",
         "privatedatacode: if no set, use pravitedata in country setting",
         "firstunallocatedlcn: if no be set, this value is 800",
         "lastunallocatedlcn=if no be set, this value is 9999",
@@ -21,6 +21,7 @@
         "netidmax=0xffff;orignetidmax=0xffff",
         "needmatchonid: this country must match onid list,",
         "presortfilename: customer lcn file",
+        "nolcndesc: if no LCN in ts stream, LCN processing flow, options: ",
         "the end"
     ],
 
@@ -333,6 +334,7 @@
         {
             "radiolcnoffset": "0",
             "otherlcnoffset":"0",
+            "nolcndesc":"lcnoff",
             "servicesorttype":["servicename","servicetype","serviceid","frequency"]
         },
         "lcnoff":
