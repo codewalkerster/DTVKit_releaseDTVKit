@@ -62,6 +62,49 @@
             ]
         },
         {
+            "description": "Austria",
+            "countrycode": "aut",
+            "lcnon": true,
+            "operatorsList": [
+                {
+                    "name": "Sky Austria",
+                    "code": "0x0001",
+                    "signaltype":"sate",
+                    "lcnon": false
+                },
+                {
+                    "name": "Austria-programming",
+                    "code": "0x0D01",
+                    "signaltype":"sate",
+                    "lcnon": false
+                },
+                {
+                    "name": "Austria list",
+                    "code": "0x0D02",
+                    "signaltype":"sate",
+                    "lcnon": true
+                },
+                {
+                    "name": "SimpliTV",
+                    "code": "0x0D03",
+                    "signaltype":"sate",
+                    "lcnon": true
+                },
+                {
+                    "name": "M7",
+                    "code": "0x0002",
+                    "signaltype":"sate",
+                    "lcnon": true
+                },
+                {
+                    "name": "other operators",
+                    "code": "0xFFFF",
+                    "signaltype":"sate",
+                    "lcnon": false
+                }
+            ]
+        },
+        {
             "description": "Gambia",
             "countrycode": "gmb",
             "lcnon": false
@@ -72,8 +115,8 @@
         "description": "Germany",
         "countrycode": "deu",
         "lcnon": true,
-        "terrlcnon": false, 
-        "cablelcnon": false,            
+        "terrlcnon": false,
+        "cablelcnon": false,
         "satelcnon": false,
         "operatorsList": [
             {

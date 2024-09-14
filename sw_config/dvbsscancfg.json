@@ -45,10 +45,55 @@
             "lastunallocatedlcn": "399"
         },
         {
+            "description": "AUSTRIA",
             "countrycode": "aut",
-            "lcntype": "alwaysoff",
-            "firstunallocatedlcn": "800",
-            "lastunallocatedlcn": "9999"
+            "lcntype": "share",
+            "firstunallocatedlcn": "1",
+            "lastunallocatedlcn": "9999",
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "Sky Austria",
+                    "code": "0x0001",
+                    "firstunallocatedlcn": "300",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01",
+                    "frequencylist": "satellite_deu_sky.json"
+                },
+                {
+                     "name": "Austria-programming",
+                     "code": "0x0D01",
+                     "firstunallocatedlcn": "400",
+                     "lastunallocatedlcn": "9999",
+                     "tidydb": "0x03"
+                },
+                {
+                    "name": "Austria list",
+                    "code": "0x0D02",
+                    "firstunallocatedlcn": "400",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x03"
+                },
+                {
+                    "name": "SimpliTV",
+                    "code": "0x0D03",
+                    "firstunallocatedlcn": "400",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x03"
+                },
+                {
+                    "name": "M7",
+                    "code": "0x0002",
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999"
+                },
+                {
+                    "name": "Other Operators",
+                    "code": "0xffff",
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999"
+                }
+            ]
         },
         {
             "countrycode": "bel",
@@ -322,7 +367,7 @@
         "firstunallocatedlcn": "3000",
         "lastunallocatedlcn": "9999",
         "tidydb": "0x00",
-        "beouquetid":"0x111",
+        "bouquetid":"0x111",
         "frequencylist": "satellite_deu_sky.json",
         "protocoltype":"EACEM",
         "netidmax":"0xffff",
