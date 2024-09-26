@@ -5,8 +5,8 @@ DVBCore
 commit b4760e91f0df5176713a9856b1c82aa8c98feb0f
 Date:   Wed Sep 25 02:23:48 2024 -0700
 dtvkit-amlogic
-commit 19c1be559c59c2dc3d8642ecc1fb11e68470d0c5
-Date:   Mon Sep 23 17:17:05 2024 +0800
+commit b63151d4c651572cfeaeae1adf0c8730e549286b
+Date:   Thu Sep 26 02:30:43 2024 -0700
 CI-Plus
 commit 9c3a72946059854e5a67bb1b52cb5aa615b3f067
 Date:   Thu Jul 25 18:13:52 2024 +0800
