@@ -476,6 +476,17 @@
             "lastunallocatedlcn": "9999",
             "tidydb": "0x00",
             "sdtmandatory": "FALSE"
+        },
+        {
+            "description": "Hungary",
+            "countrycode": "hun",
+            "lcntype": "share",
+            "firstunallocatedlcn": "1",
+            "lastunallocatedlcn": "9999",
+            "frequencylist": "dvbtfrelist_default.json",
+            "terrtype": "DVB-A",
+            "privatedatacode": ["0xFFFFFFFF"],
+            "protocoltype": "NORDIG"
         }
     ],
     "countrydataexample": [
