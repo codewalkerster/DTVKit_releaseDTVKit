@@ -260,7 +260,11 @@
              "operatorlist": [
                 {
                     "name": "CanalDigital",
-                    "code": "0x0901"
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "protocoltype":"NORDIG"
                 }
             ]
         },
@@ -273,7 +277,11 @@
             "operatorlist": [
                 {
                     "name": "CanalDigital",
-                    "code": "0x0901"
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "protocoltype":"NORDIG"
                 }
             ]
         },
@@ -286,7 +294,11 @@
             "operatorlist": [
                 {
                     "name": "CanalDigital",
-                    "code": "0x0901"
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "protocoltype":"NORDIG"
                 }
             ]
         },
@@ -299,7 +311,11 @@
             "operatorlist": [
                 {
                     "name": "CanalDigital",
-                    "code": "0x0901"
+                    "code": "0x0901",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x00",
+                    "protocoltype":"NORDIG"
                 }
             ]
         },

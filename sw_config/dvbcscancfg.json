@@ -178,6 +178,7 @@
                     "firstunallocatedlcn": "1",
                     "lastunallocatedlcn": "9999",
                     "tidydb": "0x00",
+                    "protocoltype":"NORDIG",
                     "frequencylist": "dvbcfrelist_dnk_canaldigital.json"
                 }
             ]
@@ -225,7 +226,8 @@
                     "code": "0x0901",
                     "firstunallocatedlcn": "1",
                     "lastunallocatedlcn": "9999",
-                    "tidydb": "0x00"
+                    "tidydb": "0x00",
+                    "protocoltype":"NORDIG"
                 }
             ]
         },
@@ -287,6 +289,7 @@
                     "firstunallocatedlcn": "1",
                     "lastunallocatedlcn": "9999",
                     "tidydb": "0x00",
+                    "protocoltype":"NORDIG",
                     "frequencylist": "dvbcfrelist_nor_canaldigital.json"
                 }
             ]
@@ -327,6 +330,7 @@
                     "firstunallocatedlcn": "1",
                     "lastunallocatedlcn": "9999",
                     "tidydb": "0x00",
+                    "protocoltype":"NORDIG",
                     "frequencylist": "dvbcfrelist_swe_canaldigital.json"
                  }
              ]
