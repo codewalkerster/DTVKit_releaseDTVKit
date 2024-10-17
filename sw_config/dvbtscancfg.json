@@ -7,7 +7,7 @@
             "share: when UI switch lcn on or off, the lcn value will be changed in all dtv type",
             "alwaysoff: no care ui setting, always off",
             "alwayson: no care ui setting, always on",
-        "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:save duplicate service 1:remove duplicate service,default is 0x00",
+        "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:remove duplicate service 1:save duplicate service,default is 0x00",
         "servicesorttype: SortType: servicename,InTs,frequency,serviceid,servicetype,signallevel,scramble,category",
         "terrtype: DVB-A:both dvbt and t2,DVB-T: dvb-t,DVB-T2:dvb-t2,ISDB-T",
         "tvfirstunallocatedlcn(lcnoff): TV service first unallocated lcn",
@@ -379,8 +379,9 @@
             "firstunallocatedlcn": "800",
             "lastunallocatedlcn": "9999",
             "tidydb": "0x00",
-            "sdtmandatory": "FALSE",
-            "frequencylist": "dvbtfrelist_mys.json"
+            "frequencylist": "dvbtfrelist_mys.json",
+            "privatedatacode": ["0x21CA"],
+            "sdtmandatory": "FALSE"
         },
         {
             "countrycode": "nor",

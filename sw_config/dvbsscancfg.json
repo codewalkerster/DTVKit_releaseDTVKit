@@ -7,7 +7,7 @@
             "share: when UI switch lcn on or off, the lcn value will be changed in all dtv type",
             "alwaysoff: no care ui setting, always off",
             "alwayson: no care ui setting, always on",
-        "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:save duplicate service 1:remove duplicate service",
+        "tidydb: bit0: 0:save data service 1:remove data service, bit1:0:remove duplicate service 1:save duplicate service default is 0x00",
         "sortservicepriority: sort priority sort type: servicename,InTs,frequency,serviceid,servicetype,SignalLevel,Scramble,Resolution",
         "tvfirstunallocatedlcn(lcnoff): TV service first unallocated lcn",
         "radiofirstunallocatedlcn(lcnoff): radio service first unallocated lcn",
