@@ -13238,6 +13238,114 @@
                "system" : "AUTO"
             }
          ]
-      }
+      },
+      {
+         "bound_lnb" : "0",
+         "east" : true,
+         "long_pos" : 285,
+         "name" : "EuroBird 28.5E",
+         "dish_pos" : 51,
+         "transponderlist" : [
+            {
+               "frequency" : 10714,
+               "inner_fec" : "AUTO",
+               "inversion" : "AUTO",
+               "modulation" : "AUTO",
+               "polarity" : "H",
+               "symbol_rate" : 22000,
+               "system" : "AUTO"
+            }
+         ]
+      },
+      {
+         "bound_lnb" : "0",
+         "east" : true,
+         "long_pos" : 830,
+         "name" : "GSAT 10/30 83.0E",
+         "dish_pos" : 52,
+         "transponderlist" : [
+            {
+               "frequency" : 10970,
+               "inner_fec" : "AUTO",
+               "inversion" : "AUTO",
+               "modulation" : "AUTO",
+               "polarity" : "H",
+               "symbol_rate" : 32720,
+               "system" : "AUTO"
+            }
+         ]
+       },
+       {
+         "bound_lnb" : "0",
+         "east" : true,
+         "long_pos" : 915,
+         "name" : "Measat 3/3B 91.5E",
+         "dish_pos" : 53,
+         "transponderlist" : [
+            {
+               "frequency" : 12316,
+               "inner_fec" : "AUTO",
+               "inversion" : "AUTO",
+               "modulation" : "AUTO",
+               "polarity" : "V",
+               "symbol_rate" : 30000,
+               "system" : "AUTO"
+            }
+         ]
+       },
+       {
+         "bound_lnb" : "0",
+         "east" : true,
+         "long_pos" : 935,
+         "name" : "GSAT 15 93.5E",
+         "dish_pos" : 54,
+         "transponderlist" : [
+            {
+               "frequency" : 10970,
+               "inner_fec" : "AUTO",
+               "inversion" : "AUTO",
+               "modulation" : "AUTO",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "AUTO"
+            }
+         ]
+       },
+       {
+         "bound_lnb" : "0",
+         "east" : true,
+         "long_pos" : 950,
+         "name" : "SES 8 95.0E",
+         "dish_pos" : 55,
+         "transponderlist" : [
+            {
+               "frequency" : 12403,
+               "inner_fec" : "AUTO",
+               "inversion" : "AUTO",
+               "modulation" : "AUTO",
+               "polarity" : "H",
+               "symbol_rate" : 43000,
+               "system" : "AUTO"
+            }
+         ]
+       },
+       {
+         "bound_lnb" : "0",
+         "east" : true,
+         "long_pos" : 1082,
+         "name" : "SES 7 108.2E",
+         "dish_pos" : 56,
+         "transponderlist" : [
+            {
+               "frequency" : 11480,
+               "inner_fec" : "AUTO",
+               "inversion" : "AUTO",
+               "modulation" : "AUTO",
+               "polarity" : "V",
+               "symbol_rate" : 28800,
+               "system" : "AUTO"
+            }
+         ]
+       }
    ]
 }
