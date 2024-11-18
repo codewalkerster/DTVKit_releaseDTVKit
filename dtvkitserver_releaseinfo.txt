@@ -5,8 +5,8 @@ DVBCore
 commit e190a6bafb2e3ca4ce7d58fc5bd31ed32821696a
 Date:   Thu Nov 14 23:59:22 2024 -0800
 dtvkit-amlogic
-commit 40d5cb7e50019bab8494672be072fa0a9bd30910
-Date:   Thu Nov 14 23:58:57 2024 -0800
+commit 8edc4302c6a4d0c3ce07054c6163e57da1157753
+Date:   Mon Nov 18 05:35:51 2024 +0000
 CI-Plus
 commit 9c3a72946059854e5a67bb1b52cb5aa615b3f067
 Date:   Thu Jul 25 18:13:52 2024 +0800
@@ -20,11 +20,11 @@ MHEG5
 commit 7b22085658562665b0afeb0bba6ed1bbacc4f5b9
 Date:   Fri Mar 8 14:31:05 2024 +0800
 ISDB
-commit f810d61c3e87bb025ed647425571e1686245c66b
-Date:   Thu Nov 14 19:50:50 2024 +0800
+commit 9d07bdb56c710fa5797c7c37b0dc37857efd4b52
+Date:   Fri Nov 15 15:10:10 2024 +0800
 ATSC
-commit 532ef41d377b66d1634f249b3bb0e81b8c870c88
-Date:   Thu Nov 14 19:17:26 2024 -0800
+commit 91e69b4b9fba31b7c6fbe1b72427bd90f22f621f
+Date:   Mon Nov 18 01:31:48 2024 -0800
 ATV
 commit 32e65581181a09473e4d87a874230bb1ea4a358d
 Date:   Thu Oct 24 08:17:08 2024 +0000
