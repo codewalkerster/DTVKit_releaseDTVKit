@@ -99,6 +99,9 @@ include $(CLEAR_VARS)
         libsystemcontrolservice \
         vendor.amlogic.hardware.systemcontrol@1.0 \
         vendor.amlogic.hardware.systemcontrol@1.1
+ifeq ($(PRODUCT_SUPPORT_CCDATABASE), true)
+    LOCAL_SHARED_LIBRARIES += libxds
+endif
     LOCAL_LICENSE_KINDS := legacy_notice
     LOCAL_LICENSE_CONDITIONS := notice
 include $(BUILD_PREBUILT)
@@ -334,7 +337,9 @@ LOCAL_SHARED_LIBRARIES := \
     libbinder_ndk \
     libhardware \
     libdtvkit_platform
-
+ifeq ($(PRODUCT_SUPPORT_CCDATABASE), true)
+    LOCAL_SHARED_LIBRARIES += libxds
+endif
 ifeq ($(DTVKIT_AIDL_ENABLE), true)
 LOCAL_SHARED_LIBRARIES += \
     vendor.amlogic.hardware.dtvkitserver-V1-ndk
