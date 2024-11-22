@@ -228,6 +228,26 @@
             "lastunallocatedlcn": "9999"
         },
         {
+            "countrycode": "ind",
+            "lcntype": "share",
+            "firstunallocatedlcn": "800",
+            "lastunallocatedlcn": "9999",
+            "operatorsList": [
+                {
+                    "name": "DD FreeDish",
+                    "code": "0x0402",
+                    "firstunallocatedlcn": "1",
+                    "lastunallocatedlcn": "9999",
+                    "lcnoff":
+                        {
+                            "tvfirstunallocatedlcn":"1",
+                            "radiofirstunallocatedlcn": "1000",
+                            "servicesorttype":["tsid","serviceid"]
+                        }
+                }
+            ]
+        },
+        {
             "countrycode": "ita",
             "lcntype": "share",
             "firstunallocatedlcn": "1000",

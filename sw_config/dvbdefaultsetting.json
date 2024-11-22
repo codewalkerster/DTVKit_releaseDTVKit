@@ -105,6 +105,19 @@
             ]
         },
         {
+            "description": "India",
+            "countrycode": "ind",
+            "lcnon": true,
+            "operatorsList": [
+                {
+                    "name": "DD FreeDish",
+                    "code": "0x0402",
+                    "signaltype":"sate",
+                    "lcnon": false
+                }
+            ]
+        },
+        {
             "description": "Gambia",
             "countrycode": "gmb",
             "lcnon": false
