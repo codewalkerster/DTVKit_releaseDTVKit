@@ -10,7 +10,8 @@
             "LastUnallocatedLcn": "255",
             "tidy-db": "0x03",
             "SDTMandatory": "FALSE",
-            "frequencylist": "isdbtfrelist_default.json"
+            "frequencylist": "isdbtfrelist_default.json",
+            "OneSegMandatory": "FALSE"
         }
     ]
 }
