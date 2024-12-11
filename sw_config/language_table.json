@@ -53,6 +53,16 @@
             "description": "Simplified Chinese"
         },
         {
+            "languagestring": "Cantonese",
+            "languagecode": ["yue"],
+            "description": "Cantonese"
+        },
+        {
+            "languagestring": "Tagalog",
+            "languagecode": ["tgl"],
+            "description": "Tagalog"
+        },
+        {
             "languagestring": "suomi",
             "languagecode": ["fin"],
             "description": "Finnish"
@@ -381,6 +391,21 @@
             "languagestring": "Original Audio",
             "languagecode": ["qaa"],
             "description": "qaa"
+        },
+        {
+            "languagestring": "Second Audio",
+            "languagecode": ["qab"],
+            "description": "Second Audio"
+        },
+        {
+            "languagestring": "Third Audio",
+            "languagecode": ["qac"],
+            "description": "Third Audio"
+        },
+        {
+            "languagestring": "Narrative",
+            "languagecode": ["nar"],
+            "description": "Narrative "
         },
         {
             "languagestring": "American Samoa",

@@ -43,6 +43,14 @@
             "description": "Simplified Chinese"
         },
         {
+            "languagecode": ["yue"],
+            "description": "Cantonese"
+        },
+        {
+            "languagecode": ["tgl"],
+            "description": "Tagalog"
+        },
+        {
             "languagecode": ["fin"],
             "description": "Finnish"
         },
@@ -305,6 +313,18 @@
         {
             "languagecode": ["qaa"],
             "description": "Original Audio"
+        },
+        {
+            "languagecode": ["qab"],
+            "description": "Second Audio"
+        },
+        {
+            "languagecode": ["qac"],
+            "description": "Third Audio"
+        },
+        {
+            "languagecode": ["nar"],
+            "description": "Narrative "
         },
         {
             "languagecode": ["smo"],

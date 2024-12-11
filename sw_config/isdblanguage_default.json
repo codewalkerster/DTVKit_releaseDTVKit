@@ -18,7 +18,7 @@
         },
         {
             "languagecode": "gle",
-            "description": "Irish"
+            "description": "Gaeilge"
         },
         {
             "languagecode": "dut",
@@ -63,6 +63,14 @@
         {
             "languagecode": "zho",
             "description": "Traditional Chinese2"
+        },
+        {
+            "languagecode": "yue",
+            "description": "Cantonest"
+        },
+        {
+            "languagecode": "tgl",
+            "description": "Tagalog"
         },
         {
             "languagecode": "fin",
@@ -337,58 +345,6 @@
             "description": "Lithuanian"
         },
         {
-            "languagecode": "fij",
-            "description": "Fijain"
-        },
-        {
-            "languagecode": "bam",
-            "description": "Bambara"
-        },
-        {
-            "languagecode": "lin",
-            "description": "Lingala"
-        },
-        {
-            "languagecode": "wol",
-            "description": "Wolof"
-        },
-        {
-            "languagecode": "kin",
-            "description": "Kinyarwanda"
-        },
-        {
-            "languagecode": "mon",
-            "description": "Mongolian"
-        },
-        {
-            "languagecode": "cpe",
-            "description": "English Creole"
-        },
-        {
-            "languagecode": "pus",
-            "description": "Pashto"
-        },
-        {
-            "languagecode": "srn",
-            "description": "Sranan Tongo"
-        },
-        {
-            "languagecode": "kir",
-            "description": "Kirghiz"
-        },
-        {
-            "languagecode": "bnt",
-            "description": "Bantu"
-        },
-        {
-            "languagecode": "kur",
-            "description": "Kurdish"
-        },
-        {
-            "languagecode": "mlg",
-            "description": "Malagasy"
-        },
-        {
             "languagecode": "div",
             "description": "Divehi"
         },
@@ -397,24 +353,20 @@
             "description": "Original Audio"
         },
         {
-            "languagecode": "sin",
-            "description": "Sinhalese"
+            "languagecode": "qab",
+            "description": "Second Audio"
         },
         {
-            "languagecode": "fon",
-            "description": "Fon"
+            "languagecode": "qac",
+            "description": "Third audio"
         },
         {
-            "languagecode": "fan",
-            "description": "Fang"
+            "languagecode": "nar",
+            "description": "Narrative"
         },
         {
-            "languagecode": "nya",
-            "description": "Chichewa"
-        },
-        {
-            "languagecode": "aze",
-            "description": "Azerbaijani"
+            "languagecode": "mul",
+            "description": "Multiple languages"
         },
         {
             "languagecode": "und",
