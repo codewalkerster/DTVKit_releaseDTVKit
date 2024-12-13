@@ -61,7 +61,25 @@
             "lcntype": "share",
             "firstunallocatedlcn": "800",
             "lastunallocatedlcn": "9999",
-            "tidydb": "0x00"
+            "tidydb": "0x00",
+            "operatorsList": [
+                {
+                    "name": "Telenet",
+                    "code": "0x1000",
+                    "privatedatacode": ["0xFFFF"],
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01"
+                },
+                {
+                    "name": "VOO",
+                    "code": "0x1001",
+                    "privatedatacode": ["0xFFFF"],
+                    "firstunallocatedlcn": "800",
+                    "lastunallocatedlcn": "9999",
+                    "tidydb": "0x01"
+                }
+            ]
         },
         {
             "description": "BOLIVIA",
