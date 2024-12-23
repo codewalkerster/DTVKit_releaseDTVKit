@@ -13301,13 +13301,148 @@
          "dish_pos" : 54,
          "transponderlist" : [
             {
-               "frequency" : 10970,
-               "inner_fec" : "AUTO",
+               "frequency" : 11090,
+               "inner_fec" : "3/4",
                "inversion" : "AUTO",
-               "modulation" : "AUTO",
+               "modulation" : "qpsk",
                "polarity" : "V",
                "symbol_rate" : 29500,
-               "system" : "AUTO"
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11170,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11470,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11510,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11550,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11630,
+               "inner_fec" : "3/5",
+               "inversion" : "AUTO",
+               "modulation" : "8psk",
+               "polarity" : "V",
+               "symbol_rate" : 30000,
+               "system" : "DVBS2"
+            },
+            {
+               "frequency" : 10970,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11010,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11130,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11590,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11670,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "qpsk",
+               "polarity" : "V",
+               "symbol_rate" : 29500,
+               "system" : "DVBS"
+            },
+            {
+               "frequency" : 11630,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "8psk",
+               "polarity" : "H",
+               "symbol_rate" : 29500,
+               "system" : "DVBS2"
+            },
+            {
+               "frequency" : 11550,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "8psk",
+               "polarity" : "H",
+               "symbol_rate" : 29500,
+               "system" : "DVBS2"
+            },
+            {
+               "frequency" : 11670,
+               "inner_fec" : "3/4",
+               "inversion" : "AUTO",
+               "modulation" : "8psk",
+               "polarity" : "H",
+               "symbol_rate" : 29500,
+               "system" : "DVBS2"
+            },
+            {
+               "frequency" : 11050,
+               "inner_fec" : "3/5",
+               "inversion" : "AUTO",
+               "modulation" : "8psk",
+               "polarity" : "V",
+               "symbol_rate" : 30000,
+               "system" : "DVBS2"
+            },
+            {
+               "frequency" : 11470,
+               "inner_fec" : "3/5",
+               "inversion" : "AUTO",
+               "modulation" : "8psk",
+               "polarity" : "H",
+               "symbol_rate" : 30000,
+               "system" : "DVBS2"
             }
          ]
        },
